@@ -1,0 +1,106 @@
+/*
+ * PowerAuth Crypto Library
+ * Copyright 2025 Wultra s.r.o.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package com.wultra.security.powerauth.crypto.lib.v4.ml;
+
+import com.wultra.security.powerauth.crypto.lib.model.exception.CryptoProviderException;
+import com.wultra.security.powerauth.crypto.lib.model.exception.GenericCryptoException;
+import com.wultra.security.powerauth.crypto.lib.v4.api.PqcDsa;
+import org.bouncycastle.jce.provider.BouncyCastleProvider;
+import org.junit.jupiter.api.Test;
+
+import java.nio.charset.StandardCharsets;
+import java.security.KeyPair;
+import java.security.Security;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+/**
+ * Tests for PQC digital signature algorithm ML-DSA.
+ *
+ * @author Roman Strobl, roman.strobl@wultra.com
+ */
+class MlDsaTest {
+
+    static {
+        Security.addProvider(new BouncyCastleProvider());
+    }
+
+    /**
+     * ML-DSA success test.
+     * @throws GenericCryptoException Thrown in case of any cryptography error.
+     */
+    @Test
+    public void testMlDsa_Success() throws GenericCryptoException, CryptoProviderException {
+        final PqcDsa pqcDsa = new MlDsa();
+        final KeyPair keyPair = pqcDsa.generateKeyPair();
+        final byte[] testMessage = "test_message".getBytes(StandardCharsets.UTF_8);
+        byte[] signature = pqcDsa.sign(keyPair.getPrivate(), testMessage);
+        assertTrue(pqcDsa.verify(keyPair.getPublic(), testMessage, signature));
+    }
+
+    /**
+     * ML-DSA invalid signature test.
+     * @throws GenericCryptoException Thrown in case of any cryptography error.
+     */
+    @Test
+    public void testMlDsa_InvalidSignature() throws GenericCryptoException, CryptoProviderException {
+        final PqcDsa pqcDsa = new MlDsa();
+        final KeyPair keyPair = pqcDsa.generateKeyPair();
+        final byte[] testMessage = "test_message".getBytes(StandardCharsets.UTF_8);
+        assertFalse(pqcDsa.verify(keyPair.getPublic(), testMessage, "invalid".getBytes(StandardCharsets.UTF_8)));
+    }
+
+    /**
+     * ML-DSA invalid private key test.
+     * @throws GenericCryptoException Thrown in case of any cryptography error.
+     */
+    @Test
+    public void testMlDsa_InvalidPrivateKey() throws GenericCryptoException, CryptoProviderException {
+        final PqcDsa pqcDsa = new MlDsa();
+        final KeyPair keyPair = pqcDsa.generateKeyPair();
+        final KeyPair keyPair2 = pqcDsa.generateKeyPair();
+        final byte[] testMessage = "test_message".getBytes(StandardCharsets.UTF_8);
+        byte[] signature = pqcDsa.sign(keyPair.getPrivate(), testMessage);
+        assertFalse(pqcDsa.verify(keyPair2.getPublic(), testMessage, signature));
+    }
+
+    /**
+     * ML-DSA null message test.
+     */
+    @Test
+    public void testMlDsa_NullMessage() throws CryptoProviderException {
+        final PqcDsa pqcDsa = new MlDsa();
+        final KeyPair keyPair = pqcDsa.generateKeyPair();
+        final Exception ex = assertThrows(GenericCryptoException.class, () -> pqcDsa.sign(keyPair.getPrivate(), null));
+        assertEquals("Missing message to sign", ex.getMessage());
+    }
+
+    /**
+     * ML-DSA empty message test.
+     * @throws GenericCryptoException Thrown in case of any cryptography error.
+     */
+    @Test
+    public void testMlDsa_EmptyMessage() throws GenericCryptoException, CryptoProviderException {
+        final PqcDsa pqcDsa = new MlDsa();
+        final KeyPair keyPair = pqcDsa.generateKeyPair();
+        final byte[] emptyMessage = new byte[0];
+        byte[] signature = pqcDsa.sign(keyPair.getPrivate(), emptyMessage);
+        assertTrue(pqcDsa.verify(keyPair.getPublic(), emptyMessage, signature));
+    }
+
+}

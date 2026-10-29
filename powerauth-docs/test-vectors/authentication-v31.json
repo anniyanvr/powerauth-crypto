@@ -1,0 +1,2404 @@
+{
+  "description" : "Client must be able to compute PowerAuth authentication code (using 1FA, 2FA factor keys) based on given data, counter and authentication code type",
+  "data" : [ {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "9aaNrtHgWDU9dSlCYgZjKw==",
+      "data" : "jtaB2EAn9aPu8HKAWqRYiDAy+GriKtD76fmiXI+su0qRA22fCE2jOARczlBWILtLACu8pIdEjFR4AKjnWF+cdD98MAsnRx0oQx0qUsUNkGjnP5fh1OlKkpniFX6eC3bZ4tEdvXLdFubmgj/YVx5TlA0Sbsl0OW60+Vb9"
+    },
+    "output" : {
+      "authenticationCode" : "6S22QK4dEjyUeflaGKqdog=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "ybTMZQ7RqzNR7hdzzyCrpg==",
+      "data" : "sSiESbULAeh0/a+vaMnUt+3CmjTitBNI0Gi3EeofwCi9nX1w0zfxpnJIdyP3GGpF5eJkTTgyxUObTIqZd+QEomV8z5KcqZCIaz5D8bieMFEG/kLdcq0jzG5mgsD2ULsork9cimyAuFFmdS8dtTDyk0XCe0eb1//etVshAAnxx6OzJcbG03w1IS6TeZaHeG+mmhdYzB5ItFy0byYXBY7F00iPP/hN"
+    },
+    "output" : {
+      "authenticationCode" : "1dKNy7eCnHhMHBWiPPqLRg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "ezMykp12Du5tchBLhtA7eA==",
+      "data" : "oNRoD5oxDgYp0noFnMg7SK+EPHHne2JCDTHiykyxAgT+7IUuKpgkpx9TDUIivSLsF6qNp0XuwpynKDEFkpitVBagEP7NJDYFupdolaIkBKGU5CKOxMFOcFIcBbtuWW4VUCcwj50/JoO3KE0T0phpwHcJWxASXcglANWmV0l0UBLTkW0g9OH2iLQzLf+iM0yaZ/JrZ1B5"
+    },
+    "output" : {
+      "authenticationCode" : "R+OH/DV+7mCzN1j6RDbltA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "8ZA3+lpumcL/T7v9NLLu0w==",
+      "data" : "y3W1BClgKCJRN87wDFSvU6Kd2dHwW5/+rA=="
+    },
+    "output" : {
+      "authenticationCode" : "OMQbsHGWA1Pd247jaItrxQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "TlKqbpdpDgk83xEs1ESi4w==",
+      "data" : "ZY7LSnecqlBxKRvj0s6yn3Zf19/78JLwzEP8t/H02vU1vSmMX0EivkLFolIYIP1rGMqeLM/FV82yEBHXbTBFube3XbkTrpiD6hIIzOp9"
+    },
+    "output" : {
+      "authenticationCode" : "MVT2hdNZdeIxpT1i3UyImw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "4y8y55JjDKjljaCqbU933g==",
+      "data" : "i1GLIpEZgWL59qCJ"
+    },
+    "output" : {
+      "authenticationCode" : "DnqKDG5g++ZGj0QMkfPtIA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "oWRb2by7/chk2JW7naYRpg==",
+      "data" : "00GAaHwtPq/UhGryThwf/DzTmCnDWOYej6Hhl7UT7VQToEcZe8mPDojv+EDCHpxqew=="
+    },
+    "output" : {
+      "authenticationCode" : "UYJvIF5Rw81Ji4++GAYApA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "EAPjxfxhVA579pbPxBLYhg==",
+      "data" : "5GaxKmYDMoEhfOXKX6JKpvnTqzv3amjXmc0ae7Pm9qukImZ+FxfqrogmNV62Li/GQbr7RvilaUpZTVwsvbdaNJH/ZrTz1ADx+uIA8DV+D54x2Baj+TKHkcHRotOpyYTrXD8EeiC3l8TVGtSGu0zHaF+YhEpu7RHnVirD8Rkm2YhV74kL0SkS68PhTM6tFHaZ0BjocdzKfPqd6zn3Gqs="
+    },
+    "output" : {
+      "authenticationCode" : "x0FyALCwUlCluTeqcpJExg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "O3s8BD+ZrgnxDn/HkFzUIw==",
+      "data" : "8nl2AlnOs/zqSCEAi3r6xbqqd2FmUp1ByDCZMryK4B0NHtSoKMv5HA8fQlYW15y27N+juq2dHBVwfMIKD/aB7YEVJj19F7n0F878e/44BUT65csHVmQj3cXyC5JdblmNema5dA8DjClRpM6JbkbzlPteqzvN08CCCTy3fdzoh6G2VQYxUFClm9FrBRVrKSYAn7rsS+1VgeD2Cv5u0e4NsTc3G6NByhWWBD8OC1J3ENl6cxz9uYZbcrceaDisk6HmzMlsLrfeA5Zzv2kNqiIeKlfR/aeEgaMxxwKH1qs4PMLMaDJBzFc4+kqQAf0u20T/NjCbf87HwI5/cA=="
+    },
+    "output" : {
+      "authenticationCode" : "ErF9AR+71r051ijK7qqWFQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "sy2r9OUIBseMBnuRab+BDw==",
+      "data" : "swsu/C7bfTS9GC4FOUnqxqg1e+FGfhgiMWe1l+YtxfQ90bdP0XzUZ7mO2WCUnHrLslrcQ50+moSsyUokCPUtk3Jt8Njl4C8xVSGanbEt1gU1kU/GhkbuWIcMRWogu4JMCzsZoGhWGplnSmMEG8lQVPb31CZ07FqzhwBppDj+psE2tV4AHRVQklqQlShXOlaDK5G0ZmcWMDIIZnkuySurBz5mxRdCVT2KGv009cNu57UQZCmM9K7f0jMAi7qZE/d4nmrlOBMsNIU9RVN4Gibq6w7mzBs="
+    },
+    "output" : {
+      "authenticationCode" : "kl7jYvJeLXVS+EoiwEbxcA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "XesJRzYNqOmfrPb3a4KP3w==",
+      "data" : "Mdn+JjVeCA=="
+    },
+    "output" : {
+      "authenticationCode" : "aKfJZrn7nwU9MCk43KCoVctwCFXXu7d2LCh/pgmTCnE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "brx4GPkasEGVg7HQzwR8WA==",
+      "data" : "zGSTlmfDvsoqp1WNeZKto+bHz6RqgpVleroOTpaLnN9eGB32SA5uiySXXJH5jY5WUwdA5wGfL6aS0yt7CJ1pEnUjcSWH4n6ygsmJ/jr2IydVIGipl40s522C8fh31O5dqOjV5Kk8Ne4MlIlHNG5WWKm4yCVUCc6iZvEmq8jIjrk7eoBOBCZUOd1MkxDlQDAXiNTF1vQ+dVkunSZkK62ODMpAO8X0avhE7q77ESpAQVjr+AQTLZmvDo2MW7pj"
+    },
+    "output" : {
+      "authenticationCode" : "5BIIXMabmUzSI9qhCmz+6GrFzpG6SuTNINbp3IMZLzg="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "8nYP0y4L3HmWFlxksx96TQ==",
+      "data" : "Vg=="
+    },
+    "output" : {
+      "authenticationCode" : "HBeN5frBS0r/YzEEm4ti2inXswO24hdUinaDMQBpQoY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "3Zb1k9jOIgpDyZYMcn0kFw==",
+      "data" : "+cfIKKseAP2Qrgw22prNxDtY8763EvoBUAn26dD6L9xQhA02sCVHI7UbUTrVpx3uAEdNHE5EZ6bn0W5jHXFRQ0jSaR2EGk0J6udM/TpLL1KFm1yyzf6hHUYnO3/R7ezV+AN9ixCOI3xAnhxVLc4+vGc599NJ9mFORgHFz8kQ7QAMjYM9jbcFeTcePrxysS27ECmngQ1rJNfqsGbSIW986U1icCOGwQz432RFWFLnI0gGPWZ1T2YPx7/gRQ=="
+    },
+    "output" : {
+      "authenticationCode" : "dUou9jyM47GfSxBqZkEjLif39LlsDLdw6/ZfqFWv52c="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "JBr+XK4ig8v5+571jI8dIg==",
+      "data" : "+KFAsueQOp8BLhHt0LcDmj1fceYbkKAh4YTD6Z0rbeMxxlufGOiXhpZaKWm6Rbz2+WgzAGZeVNrsCPUAwSu4GFtUwHJ1BVwk3qkvBm2edvcu2cN+E8jJ9/oeAFLRkIuFDrq2mzZd5PWMMcyx6Vzlm1hd7HbCd6k+A1enuo0syxNyu9XxMILJaZmPARxKzAqEAoYN"
+    },
+    "output" : {
+      "authenticationCode" : "gUmsQtgYOX1F2QabWqLnUZKfQa4GS3chIjeXcScf8aU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "SCKhKJ7HKZgXTHFxjzs3aQ==",
+      "data" : "QxZ8LIJ5ddzHVhCzugPyntcl9RXTfNTyCkZn9uhPAteNSRMZDFVEoCWD5y3BgLjwNrvBFuFEv/937+vb4A4x48xIz9nRnPERqC9RKb72XJqVuf9zxZhqMGnMNWcXS9ivisvRFwaEFAM9M8d6"
+    },
+    "output" : {
+      "authenticationCode" : "ZFAQ7mprbyBtv4mw1tEuCTNp8zkPvac5Qe52BH3suHc="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "dXO5YkUERX1MJQ4cR+K7ug==",
+      "data" : "ctB3ClQML2yHQeuwlBrMjdVKgv5iAtcM47BshNZw062rsEZz8lYhFdCa3JCWuw=="
+    },
+    "output" : {
+      "authenticationCode" : "FjqHY/nuI7eVX1SIFGw/GDTzbwUHyM9vZ6c6O7zaxxE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "JoG08OJ4NhDOIg0AWjrxbw==",
+      "data" : "uEkH07KJpBbiPkGEtzpAF/aQ4ALtiDXQ0Y0FPVrEM/JKKRPm7WPYD2X5kOvmc3KFLLtMpL9KSSJq+S9grer98ZnWeVxmQFsAjPagkCRA20HFUfXDEwnPYpXbte1eFSaq1LrjbfF70ynYF90IrsynwM8j3bo6jGwzqOovwH0Sb3UqVoivaeSwRWjR5KHO4eE1Md1tBwtFtiJDygQz+KbU/tCTV3xKIOpmz3RWZfNugBx3JQ=="
+    },
+    "output" : {
+      "authenticationCode" : "/vNkLsabgZKV18ByJOP/Wx0v9GKyQVZSvBe/KqgJ9iE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "XydZaFb4kJaOC4EIiPfdNg==",
+      "data" : "yhmxINqZoQMAOHW+OyDMVox0JtLjAU2MUCh+7UZWf/xLz5inZ/3l9y5Uh02XzWnUjsQtOf0WrYOcd9lWFUPKHd10y7wAsWR7a7wbvh/byJ9b8kMmIpD8Vjju2yi9Xe4OfYtSUmXToASVT0ebLUkKQG0RXB7oWPCm62Ws7HIxJpTd/hNN0k+GGaehXBYTVVOKZyTd0xsa/dW8WBmGOrfz/1QuxRDhrg5HVGEkyWTwznFOI2YPr6dLv9VTeviWBgt3KUxevMzJ9Lab4xNhiy/sOJ99xsoH0iOyRsIDRQ=="
+    },
+    "output" : {
+      "authenticationCode" : "AqFDwSSjUUOIWLL9v1d+bDwcYcoiqfz6/ztxy3vxyao="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "19i+XYjNexyfm2yCd2P8fA==",
+      "data" : "2Lst+Khxjv6liAfE030EWVLqL2Orirc9dqc="
+    },
+    "output" : {
+      "authenticationCode" : "anTgA75On4pU2/6KhTq8yK9cYrJiNGOIJDCj0mvlRc0="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "TmEIW5N4E1j1yBv5GJjtDQ==",
+      "data" : "jhUw7q0wJT5+qu+fQlcp6GQNwObgAj+YKjglpu+DWM7iu9BH43aAb7gVCGhpoR3sLKLeIO2XntT3zKF/aqpe7rAp6idDTgE4c5L+lQVhylybr0TrKiOJZwhnxRuQVEneSqUvS/Jv6YfP47+U/fWnnxZ4pIrTxtUHGAmBjJWFQN5EtP/I7QUfpPtnpW/5SRXw/40dWhq2CNvv7dhTMvZjO5QJzIOZXHilg0MT41mBAJmDsRWdYnh+nA2wLo0hg8XVivM3HGFM+kB0uoZYVC8ibZWd8no/Gu5gGSIi+ZdsZ6SeDRm7wvOV8Ig0K314BZo5iOun0av/71TFCybxsEI="
+    },
+    "output" : {
+      "authenticationCode" : "SQ8N8uMP2D+r8FWr/oZfPQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Cu/kT8shFWN6zkqpXY5pWw==",
+      "data" : "W145fx0LFPXwSAFgi6Hd0i/wcDcLHbBPpMYb2ZpFF1LiC6TSgKU6i0jIF/H+ZivyvBye4tJBMPCvM1h6YI1A+499/kF4bfzEg61VKEidszyDpzkPcvqHJOnTgFq8YrmgHMNcoim4CvFwWWsQx/Zc19DBOsrdxZk+5NrnSQ2DS7msw33B5F56PsVc9joKaDKR56s9nZNFauAE3gvFDzJovuE2er9nENJ1ZWBS95ItZ8IdWcqs"
+    },
+    "output" : {
+      "authenticationCode" : "g1H9PxfXwvMQWR04zhOSnw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "eAeCwhbY8rxgHxLBwkxBAQ==",
+      "data" : "EXdwNcyYaktrvg=="
+    },
+    "output" : {
+      "authenticationCode" : "nD22rTUKpd99/wvi77XsQQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "oGmei18JICTuCjvPn82oqQ==",
+      "data" : "kK0J/QmpWkB+EgHhXKBOAVLky5ndDABX9/c2qTr8f9mqXj9bHTlhmi6JPGa9OTBXKrHLsrudVbuOwyOuIrZavbuHc/Is0D3gXvSehD2VA5c+SsANSBKJBy20e23HG/SbKdRYBBN277OYsJnvM6hWrw+yXB0PcXkeyRzzLIVw6B/sbGBwmh5XU0OYn7XSwsarZXZ3i7+Bzuc/m3vuqjfMApOCVmP4JKpWAcVxyKJf7IxSdy/nUEkY6XGlKYrzl5FhVT4gucheLaY4FKnQ1UMKze9PJXViJacoJIBVcaUsbhzkBhImwrpdIQ=="
+    },
+    "output" : {
+      "authenticationCode" : "Et9s4s5e9KfVcyJK6UCySw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "aTY1zlddqk4156ML/5Gs/g==",
+      "data" : "nsDhcfeLFpysK1/woLdvyxpiuFKrMA7Z+Bcu1vqSuc3+G879kZYRfEzTC6zvosYirwN6DqgIfM9xG6i33Hor4HXfNR1v0fWxbPi+XyBSpLXEXASVwwoBlzXw2j+OSY3gQiHnt6n2g8Dq01X0RG79bYbb6hfghvMixDTF1dZFsgEoIkr8V6AFIzP3LfUEOxMUiZ2JLpywiRL7+qrsHuzUMcRbNdKatSpz1F5SZwWz+9l99tTa2EOPROxYkRGYUIBSyHhmxkQmKvJVDiIeC33QJpk="
+    },
+    "output" : {
+      "authenticationCode" : "8wQDyVrT79kSBhNSD7KPoQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "A9pTL+/wCivORWLojP9KQA==",
+      "data" : "oiTXZH7iAEKOLxzVJiGtlRnXkSHeLKi4DzkhGBBHuFwRLK5D9mCik/eCVycwtoA1i4xGYh6NQCRBYJSPcT+Eg/Ayvsk5r6+ZGYnOyGMAXyHpI0Is+NOkqyiTYIDVUWM60q/jiXAfIOwm0D2jqPSQv2t2RpqeoRFHwbyPu0dpjAEwDd8W9mOOmk9WbkVvoUbezWXDb/fvlaL04DaJ88ySVsGVBjjDNLA2fJ05ns5WHmcKLcJaS8TB0UUPuSHXVysPQroCQ2Sjzuiub9GVDJWyGu2ZD3471D2R60rlpaw6X664/w=="
+    },
+    "output" : {
+      "authenticationCode" : "SVB6wRdxfMu1PHWEW6ih2g=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "isIYLkSD13md7q8RMleFjw==",
+      "data" : "DPy9oEfNEw/AZiL6hl+r1m4dhXD0SNzDoqNZDdgvFPt+5B4P6s2RYvTmX8crLJVKk8qcTUjE+jiXGJboFTP45N0SeQSQv+HhHE7sdtkJtoHI8r8txqmZ/qyzVAVcM+5GmCOrwie8PYvLgwZosDjw2G6HHiUio6X3pmdvPTsQYP7v1IUXgSpnoNr1XLds+tUoxfnJY6zD/3f3G28V/FSKOeP2CvGI2RSKUReorqU87rQrU+V2+qzhH4j6R69L+K2DRAy272MMBPRjxHYG7Ib+mu+YFAnINJoIDfRw2IlbomcYnKgAkb3dvMIr"
+    },
+    "output" : {
+      "authenticationCode" : "AWp7+hsR9hmoGJ2AFE81GA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "IzglMctdSWaht7AQDIBU+w==",
+      "data" : "gIhIb3ddPL58R6B9skfi2TFon2hUhX/3UPe9bVD8wukgEnNGI1dlkCYlM4bPnsCs/wEZm7XzC47o8CcN4cKMTtEzRaugKtOeoqIGzeGHHFaUUtO/HDo4MG8O3WcLZ3TzoBE2tJR665NKpwvRKX1W1+ZhGzUDkGFiIQDavQ=="
+    },
+    "output" : {
+      "authenticationCode" : "S4Ss/H0I4NneshTxTRfTng=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "NsdsvTjtK/7OVQBACAoaKg==",
+      "data" : "r6Euiy0Yad99NDiyi8FjmIFeHkImQJD03SvlQ709d3dv+xKnfVKU47mtNyf22ac+Q0DWpu+qPRm6k7Mue1VhHmR00EYFRwQ12v/QVCkk6cwWuOx7SgCX5qWyjWILLVlj"
+    },
+    "output" : {
+      "authenticationCode" : "kYbi3vrYVBQ8nhweRaYhCw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "KUJQHUyWIVd6v7F8L5u5mA==",
+      "data" : "Zmag/2YidwQ9yv5H8KnKiJwzRg4CVqXR+VtJwbdJq99VpVADAbyuKQ=="
+    },
+    "output" : {
+      "authenticationCode" : "D28PBEuOrcrMBvYbVMQwdA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "1Muf95wmfCJQRSNwWJDK7g==",
+      "data" : "uuTxgg=="
+    },
+    "output" : {
+      "authenticationCode" : "sHphbVBs8GYHvF5aYmDoz0Mf3Q8j7/bb8DPiqcX8P0Y="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "5x7K4MTQXJu2fMOmTc+EVA==",
+      "data" : "vZGulRCvY8QQhcbksRHVr4qJ5lMBrv2q3VrCX20gpE1KsnN0Jby8cJWeXmNZ6YXFzullDUwvezie/2xu/5lrbpTBr7YHAVTjqrZqFoiQls+KKXjyGrMCQ8c9cd5YkAb1Atk+Zk5V+KyX6ANb/NROfMplVPPrGfGCRHUAPuzR+LrnGyRd9w7jANnzBQSOEABouy0YBtDBaKyGCLsA6R6DH8+uzsccH9HvrNN/nPoQnqJ9rrkP1mjmv2yL6RN1Pv6oIG/XitSgwDtmHJL2hn/hHXueWj9tZ0sC74UsT74SKVmYGzEXI6X40ai8ALETP6uPhahjR/4vOoU="
+    },
+    "output" : {
+      "authenticationCode" : "B3MbIr5euwpIBvgJpB9H6eIohD9dNpHU/oB4qCA3nBE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "5eXxfOGJ8IBvThoVXDm7BQ==",
+      "data" : "tu7Ze7pOmovspTXpcXdL2pTrSdwBBZvQAAehVXlKEwpd8H16ZYvHMOl1C8TCoDtgd9+w85JWVOKMKMXURiSfO9LSvR9oNeUotwzV+SETmWBqbSFx31rXu4cnhsJc+dXN/A50NjNh9jWAz50twY5ir09b2AfyLMa3p4i+CaQn5F6ceEkKtg=="
+    },
+    "output" : {
+      "authenticationCode" : "6JhHol4EASdvBxEpvWKwxUozOxs7SvggCEodt7TrKCY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "YVsca14s/qrs76AeRbF3yQ==",
+      "data" : "bYTWRsEmZBZhx/4r3Gjmq3pcT/OxKNOityHHq/zrmpE8VQBn5ZeiaxjNfuyzsJytCp/F0yJpbh7aM4tJJ5MimYJWVBg7s/QoFtC3ZZJkAVHKrqLxLFHhJHtUaIgsIGxf/Lh46SuTZnDMUa/p0HWvjLj/3wLtrNjtBubv/aOyuVM4r5/LTnwnQc6s1Os62g05ZEBr+SC1y6AdlXD+wJw2hGB0ND3zg8NoyjlpiC+8tve1ZWCDx+/54fU6CDADi0ewCopitSsO3MIWdlFICM85rLNH65rQDaKiba1G2bf5dQdGf2t/ASdTX894bdkhBpk="
+    },
+    "output" : {
+      "authenticationCode" : "Ora2RuzROdOktKod8UyimkpswnlNt1eCVvo2no7ls+A="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "xBqXfV/ci0RMIq3jDRvZAg==",
+      "data" : "+Li/lmiQBTTU//qA2z+dou5l07JFOvzk4fWpAnkKDRj+q0w2A4YdWH03RqAv3F+IbJvipQPJW36FZw2QOJVfzwFClJaXp02xhj1YnTYBxTe6cDWSrOJL0zekU2jeXbAb3+Ing0YWqHGcPQoqZGkGH2inxENla8UDjcSTFO72TGizWPlwEnC2dxsgzkLok6oPjlo+sholtKcAtvQEYU0wSijdwb+uY46W0GQ="
+    },
+    "output" : {
+      "authenticationCode" : "5DDv/V3IwOmx6M8UZwe/jTrCDJKGdiaBpP6Ula4+IDg="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "L6y/VE8rVli9w9/Pv3pU5g==",
+      "data" : "9kfPjN8jFO3ZPBBdCRf3Eedp0dzqDWKGl9ICuF7WRv7fbzdLNTn9RezVsXpYSEYaI0wUwdqgSsLHisDiktT3L0oCpDfHW5R6l5KR5zkFHVr2Ub05tLg9jCASZcKUifjAmeJptBsPLg4HJ65sMLdHu2WcHIhTITwioceTTE6UZMUceRyi1RnzBsp1WvD/q06lihByT+QE4UZRi0+ysBEs31UxAR/UeA9T7FVvPh5QGHEW4rrPVWkgctyVMfS6inbAd9U8z4J9opTs+5n1KnNrM2LblbJy5zHWayEU+IkOhrwXOhCIy23+TnnY"
+    },
+    "output" : {
+      "authenticationCode" : "D2Juu/bcpsRkiGUn1bg27u9KkFBQBp+EPifmYqZqOVU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "liRaDxS9AM2y2ubidj1Aew==",
+      "data" : "F79oWS4iip2gMis/KSyvBXb+IOw+RNm9rOcalZ7uTejlwtltmJJG/HxEBZG2JmDvf8wZIGUoDNDJk6D4/0SkZjPpMFVmEpQNgyoIhYSmMc7Ck9gjS876mchIffFh+XpfaN0LFyAOu+ZWLkcm2QlF3dJXjLTfpyWCnV0QL8y9GH4p2GNw95brj9OdgtmXFkxjWcC98ribNg8bnY/j5VtTQEYR26nvTsNvSO8V/EgdyGIxd8u9tdyEoHHIJ5a/sBBtUSlsK+dDz9llNw0oOnGwhUbJiD2AbxfoC/c="
+    },
+    "output" : {
+      "authenticationCode" : "4GC7xI0mXCseG1KKqIiBu1XJb4Ybvbhh9+61jN74w7Y="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "SR+LMU+TITPKLOuGIdFnnQ==",
+      "data" : "YDEE/LX3QvTUqYjIe3YAXzg9GHbt3pAKe+mlysQ4GvPR/NMqTXK93sW75g0cktm3tCISnBo/aCiQmccLqbwABF9wHxdWbeLv+BtnCryEXgqbnrEkWSw0CFy09FbO2qE8PNxtAPI0G5Jl16rKLJ4hWjtZvaic4AaeXFSazFOhpjZTLeX1AA=="
+    },
+    "output" : {
+      "authenticationCode" : "4k4fVbwZ46tdkxV69vm4m3aQgbVBRqvh+vi0Aquu9lw="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "XHCTXTmt2jzgAvUw/aBmpA==",
+      "data" : "cZ4ZB4JY8BLDR81KKyDE3DiJe6DiJ7AAHXCO1A6tbRBSIENXSddjJq5WSC7+Hmyx5OiXHFYIm7my7gPsNVZTNgtDYu26aANT/vuGV+hK2gMYy8/lcAtWsTDKIYzO+K2EDPYjaaQvHXuMVZuqkFhVrGvSfnN+fACSj2JKWj4zHsp+9nZZ2ANnECUmKL9ljd50aiEZLSfD1c+FnZRXOGFa3pvYOK3eHLGhrkTdEK979vKKLlLSJhDsg+BXTM9cM7SHIKEVSx/kX1+D59/P1VoHk/ra9kE0G6DPgwvioIccPezPwIpmyYaKnC0lYRpK34DyLQ=="
+    },
+    "output" : {
+      "authenticationCode" : "Btc7nDt/YoxgvFl0iV9I2/JwnwCF0eVGH0BMfCHh6z4="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "5Cy06C0PqGnhp19CMZbBUA==",
+      "knowledgeFactorKey" : "q9S2yzCreZlyTMB0fc6dUg==",
+      "biometryFactorKey" : "Hhag1Kl+KoPfAtpawnr4Pw==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "4E+eu6jf+jKUxG8JkvnTrw==",
+      "data" : "crG3ywOWZ5OwSmuIJaO2z+96j/amAexZHq1LiRV1Xn8hJvXbf3A4e1vz7xHgxbbBmLjmg+pMAl8Fvlov+Ezjcqg2VEDUEQrGQtcEojifqQEwSaVBHm4T3cvn/wHtSbEZb8kwEnWWl4xzQSptjnce1p8BFFNXblvwu5D2IhpQ2GjMGjgw9084YIj3SVHsZAYZhENyl7+/7oUpfCEfsmb5/EXxXI6TfZDuslUm8hL6tSRGI9BNlCWZoopxhthKgr5EX9Y9ITC41OPBEA+3UEBTlBhw2HA="
+    },
+    "output" : {
+      "authenticationCode" : "ZKOBV9wmoEtnl77qSFMH96gIVU8wcq70yz9JD+zEsTo="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "7oU99qzJ2nNY9OjxKuhFjw==",
+      "data" : "ZZcam2RDxzZcQBZOmEpVr1MCVOMzlUrkrORCIBYs3CbczTfRnr50fDmAm5MYXKHu9xDb/rcDfhwVlgWQf83VPzFm81zSqKaiXusuNsIuKwYuEuT8Wh1sBQhhuY8n4vR47fzRtJSLJP7bJJkIF4hQgg=="
+    },
+    "output" : {
+      "authenticationCode" : "hCmjYQ8aTNwRIFOq0nPgOQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "cqXu84GZg6ClBR2XGPcOSw==",
+      "data" : "3AlZ8EqPOGJHQqZCuVeV9dYpW2sFJnv+mxNTG16csVgDfNbK3w+NzgNfoVkUek9u5qpu4qzZGaSc3Xbs6/+AEXDrAcEykNwDFf4RQJbNS3A10JZjd1GX0pMK0nrgWecgZlane/X/H4KgP3kR3dwtMTEmjGdKC9iD7vB1d6dHKWdlO4ZbDpNgQsONL4XAnCbAXfniKiorzxioqdUYWyrYLoNfCaxIeLQZnvA/7bVg9yHWps2TfwA1mqWUl2rRcml3ijeb9LW+9XjWDMKAKCqfQPiSs0BcgCNGHQhd/ue/MbgG5JpmdQnoUD74LqPaUNY6C4XsfZvO4Ws="
+    },
+    "output" : {
+      "authenticationCode" : "jxEWjvkyp633rxXDdBIkHw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "M1WP2lt0ZWar8UqemZm7Lg==",
+      "data" : "A9W9pBUr3/NR+3W9eJk8whi5jlPjEmTRLXLCvEiQdwAQN+SYMNHbxMe1Wbc6AnvGcpO5xJM91VOpXIJumZwTbGtTO9TxQ+oXbqrR4vKJyAQHEXf0yt2255vdh3EMq9xI93z2UM933LgE4tnZFwPsJUfGiKeOD4wqroEguMnFlKWQVGr3W7m368ZWnJ/7/ERS/lakCwQ6oa+4Aigoo6vstfqvTH2rJNBrP4mDVPq0oMm07U8/CByxCDlA2pPePeQxEzldhiAS"
+    },
+    "output" : {
+      "authenticationCode" : "63QdHqM3Y+56NQFHHfGuUA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "dW0GPtmMVIU3w8pmQQkmIQ==",
+      "data" : "+J2HbeBoXzLZeP8I0OMVNq0w0b6Z5sYXtosOCGtoBrubnnpdwSAZQOER/vOpVLKYSC0K0FNU9V3Z3/oYbdut7bNIgR+DX1L6xYPuN+86ouymri5Fota8c/gkGZkk3w/pjEU9yPQcd3wLsoqgeUN+oMEfJNTFeJpeWrBg7MzuR9PYyRxiK5eymgKt9pBqlDcRgfc/lLI9oWlAu484b672Bdcw4+sFZEm3iObFtcdMjnqLgF81/9i5tdPWj90H93tdU1xfMuuvlI/LliJuWsfUTHuE3Utx46wfII3YNa7V0SYMonaP7Zx7lyFKgbXJypRW"
+    },
+    "output" : {
+      "authenticationCode" : "cRjIOvw239hh8iSiJrdjZQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "3hdrrkgqi1z7/hsjGdvz3w==",
+      "data" : "1BXUTQeoMsBcZdfyWky5ayMopGU2+WfXthXvzx70ry0QRm0z4ifCg7a4l0pUDx8goxg1LeP3ApXhmbhnYl/cYt79M7sbFFiiIyho16Ys/vpbKsmuWo6mdOeV82cH8/wLsbnBT5ohM7V9szX/u9pqKLFb8jYrN9ZXuc9TRFhB9+vsiUw3qa/16gtprEFbh0Bx32H1KOhCrCOApe5MeArdhjGvqs9ZZfWl94JEP6+4WZkLe2RLooGraUwZ5np13JbEnA488sfcdgr9BcJfxiQP/dDqjSkCr80="
+    },
+    "output" : {
+      "authenticationCode" : "lQK4Emi1VLCV5kM5Lh1Xfw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "GbmYOV8AE4syYEZ88M6KkA==",
+      "data" : "Ihkck96L"
+    },
+    "output" : {
+      "authenticationCode" : "JHq9wMxM+tpqfMAzaf/qyg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "JwBxMPyRYx50d65qeMQfPw==",
+      "data" : "WwoEJWa2i5iVNmM="
+    },
+    "output" : {
+      "authenticationCode" : "MR2JZq3uInYLxKuLyz7CMg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "v1PN5pYQt7uMp9Tqb4kk4A==",
+      "data" : "PEvGB+xJk23P3kwEW9wn8ObEFhzSTIvsaUN0nMuk6XCmLk11tKQs2U2kt++4YBmnD+fAa/IQzTit6c6lxr8CqvwAFD1n2mQ3bRziWgblHvB3yF1PjuEtDaaGJG06yA6lK391mJGsrbpUckzk61FT4grdPBYwDDxh7EjaxPyzYnnHSDi18t72sA=="
+    },
+    "output" : {
+      "authenticationCode" : "V6MPkXKYueRCxIG2evHwsQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "7eTz50N3qWSjBcIV0LbEug==",
+      "data" : "goPvngLuEI9WIH29Qfnq+xDn8WqzpDDOaVVTp1gDq8KHI1hNmU+KT+/66A42QWIDSIuX1zmfLsfI9IQagdmtLDhVogDyxpa7Wu+9ENiQ/hJY/RFol6KtcKE6JGkbv1wxV6YFALjc+ZURj1I7IeJhfJDUGmfshh9TfWggie1W1g6HNLOint68B/56qJQ3FIbled/HlaKX6OP5t4c9bjh9r6Afp+EZpw=="
+    },
+    "output" : {
+      "authenticationCode" : "DXk4mayPsfWE8ks7GMm41w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "+0llP6bIof0Jdd7YWSFtAA==",
+      "data" : "PON1i7A4/WQpRNKVUKbU2FfBNANImlUQwZXoWdTXkbE97pNLfV9u3oMrcbkeQleZOBTx55OvQ//YjnXK9WVxUZCGhU3O0fepbpbpJ+OxWwIbYVccKXd5EIzKEVA06Qzn9r3CJJ1WGEm7q+r/Ro6ITzZz6PPR1lNm0LCiWR7ZGIHXuG/CBPwjhXQP471mmgo8/3o1ax1MtRtnfhuSDnHFrLtdXx6nGF0voR6oB1C8URfLwjXDizfg1Lqv11c="
+    },
+    "output" : {
+      "authenticationCode" : "MKbHBDRW03Tnh/8miK8IZg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "vy465c0KQ9/7bz96tR+qoA==",
+      "data" : "H2+WmbljKZn7pYTgxvWte8hkI3ihd3N/N7GYYBMyGzoiEiLk7wxMZMrP5v9euVn+EaHrSZMw/rjfJu3kckWBixA0ygln"
+    },
+    "output" : {
+      "authenticationCode" : "6JY6BQs/JnWxQR3CSQs8x4sdhj8A3DL3mOA9tmtF8Ko="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Y1H3fk660qnGeZXdulAzGw==",
+      "data" : "zzLZ7EgOkYjgW5ToOuunLcRCLkkQccPzW0+nrKeY2H/hPcZulS18GDEJzTXPaz2Btaeg6TWZ0eqcVcce0pUKdtNI9xlZrEEftOvOBxVyRXNBvcTP8aL6tsSbD0MZkikgqOy1HpjOgajEIU9f9XUnlmhYFBUDZ5D/Lj+1P8lkHrb/sWaYe2Fgh/co31hbKlqvDth1X7vIeCYrsafzCTSRLhJtdNYEA6W9aE3Sr80FIYJb7thDVB6uw7H/1uzK22gZu6XHlCWGsAnHjhCIUi9MizozNljOq+Pv46T8dkcZ+sJjpgpqaZqj8bn61UuwCw=="
+    },
+    "output" : {
+      "authenticationCode" : "3s48jw7VqFCWiHCvRkOKmgG8bBiskJ0Bfkabyul0paA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Lf+QVQsMR5+iv8+fvN+Ugw==",
+      "data" : "Di0jEUFSMea/rSbDmpz8uK9qyUV4O6VTjtegxBI9mUqSOYQIQaYaMU5hyaqWjuTq6U/B5hfwoxZLtIqoS4IU1oqe33iMrYkNtnMAFZZdOFS0hdUbTXt5It34VQK8b9ooIhjiWkdRKcrn0A1ljFxdRnBPlQMW8rVKy6iVfPtITKw36xrQK7+A4oSyehCd8t6lH2PMR1QSa6Rw41oeQhZg3hDTWuQjepjlsxdI1bSCM5Hm2QiUmyVpUbd1yX8LvdDc/OPOGNj86VpD4KJcmKSTPnZp55Z0ssgpDQJp/GsiUW95X5B8PO8GrdFgqv2GnaCnUg=="
+    },
+    "output" : {
+      "authenticationCode" : "vOI4uFNIf0oW8FQk+T100wxy07w3wGMR/3Ugmdny0kE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "mUZZhymUi9ekKgBn5SPR6g==",
+      "data" : "JZ4jjktfybiXoUXI9gvr+zu0+z7qVTr0w9dLXs7TpUQjoPm2oeY13PiCbfYwAsF2v6R+kdOCAnHILEUq0JSchEOyRXNOpum/oom0/9ied0WjSmUfvwS0ymQkLmdskiJBZ+BVlqJuV7qe0MKVtunoEUZumH0IDafceKPPus5M02T1/FTVM/fhpuJ8y7aNDKdzFRyaf65ppIOD3n57ywzgiF+VBiUR7l0/UKm9RxwOi7ylUNZqBScWdqnEAX4wFwAmZSJcWWKRBwHiZCUWKvF2aKDe4NpXqIElCszCVKY44vduaWzGq+Ybw4so0QIJaJgzpTDFMIgmQ4vGWoveYAlb"
+    },
+    "output" : {
+      "authenticationCode" : "fKzGz1DVSEoOMFEKlUup3CwPFGktg+YGf18X37Zhe3w="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "/k2/g4FOcXP6tbjpsSGEjQ==",
+      "data" : "I4xzLx67IVh5ywROmnEEwWg5h34KTeorV3UZdlpr2mJvTGWBLhYliyz6tqaDVHoFT+EOVhBN49koH1tw2J1Fr7s1FOfupd+3JkqIWdJdN2IoDKkjEPnYs0AriatZ6534mELJ9QaXi1flvyRBLIpi6XaK0Wqnq9uncWc="
+    },
+    "output" : {
+      "authenticationCode" : "6/QAvqQZHnqdU7dzVWK4gkVcwpyoAq7UDd2CFWuxUC4="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "3qr3v8CGjbPmatENboMt8Q==",
+      "data" : "8o4SrSs24oAP/7N26+9O/jgAJhtRZInCckAr8Hf08AQD63vihjY1r/HE1xFm4DOovEqzQU3NHT9VA/f6qfAj//sobM4OxqB6R9WO+mvht42Sd+8BRecdweKnHioIPaqR77CNlSCv64MjVF6ypzNQ5zhWFGEu5lF+1LnuGLzOMXNMQyP1I350ICJyWCalfes/uI0TqfmO4Nq+/8wc8P4+OprqCX3eAI530qzPL/kmKoICL5ACXWQaJNgGuy5DVXmDX7TG4fTVMtc="
+    },
+    "output" : {
+      "authenticationCode" : "K7GTyOZ0eUWj++RQ0QdGH84hVnL/E+wpyxS33w9zsTI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "sF20X3aOlvTT9VpOa0GSGQ==",
+      "data" : "3KhTu6ADpMMdh4Kj6jpMvN+CRn4IaIUeoTguo6geiw4qY84P2Ejhl1I98lXgmAHUFqZ9nD7qsO5fTcfn5VoHdLeFNSiHdIuNoLXGvGIoAF9AePDnRxSjtlDr2VMYuYVE0XyKvmTOpHOI"
+    },
+    "output" : {
+      "authenticationCode" : "mUHu5pcpMk5JL3f9p2jWizNsC6ZlC5d3GcXDmSpafWI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "fl4xaGTkJ361Er68/HH7cQ==",
+      "data" : "nIyWvosHgEEheDlo2VUvOf2dLk0="
+    },
+    "output" : {
+      "authenticationCode" : "4i4CQJ2Wzp19aBnDCJLnOKZ/hnS2h0rTlEv6qILtQ+M="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "aVsugq/0QrwRhrXfC24gDw==",
+      "data" : "bvoiPoGnOaDudWHsPERGq+jXe0R63IFr5+ZKtSmqZt7pVPRCpsoPY8JndHcZ7yXzuNHJrwWeG76wMC6fpMKl027dIQhSNa0lxl1/g2Vps9Hn5k8poC+MU3YS38eQDXVqymLWCHINJZ5q2QctONmSsqtyC9WduI+u9ILNqJKD4ENgEHUBLiIz1wQeJpMMok36YC4QSGVOtDfdK0YqEYxqjRHy1Gc8+bvp6jXU"
+    },
+    "output" : {
+      "authenticationCode" : "PdNtMJSDIQjGG7w7+ziqcKaInRssu4kLzOJGGYfpKpk="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "pOSPTswY/wkoj5z4mj+XJw==",
+      "data" : "FgCQuiWBMBo7hkSPE9YVWgx9i6wfpMVbpz1iVHRP1negRgUOfGEXAVcbGT9Hj2UKVxe78mUQ17/sVZTT+QgQObhuhM4AtA7WWX3HNEmpU9llqoy+d6IAoxwasZ8R9TCmvlwAUkXCK6Dl6fX1ibiHvdoDi20c8LT7OAtlHfz16cvWKt4iIgeLzbPpUi3txTkEEZmJuAkbIqN/RFIDiEhrFS/3xqp9Uwpn+F8E1npQ0GvK1z3tCUfhEeSDSeL97yR0zJnoDvRx82M6KMak"
+    },
+    "output" : {
+      "authenticationCode" : "bIQSmUQD/lpEqqRt+aXCPUOCJ/+cKUs/KC/qU6Ir1is="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "k7RYDa/ushCo+4lUbZEZSA==",
+      "data" : "FJzqLw4bgnH2IpXij9p5J0oywwFgxdDo1kR0xjiJ+e7Ge2BrVwjj9TQCJwQIIVK/3W9QCNgZskggOHLHPYN0+DsP3wLk0pcYURPRnQ7wKqPgw2r3CXp0sL6/rgA1XboqwbZfJeCRcNDmdq/TZJrLwKYNDC0WGTJjXFWIkIn2m1E="
+    },
+    "output" : {
+      "authenticationCode" : "+/Ad9HiAfX4C8dBEuXDoFw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "678K8ehadqWmNpP8D8xj5w==",
+      "data" : "0B96iqpS0Am0IhpYf2vea+xOEJL9WWGsnpHeoBd4/1xDUT6k4ohoN12mEMkAkOMu7NdXNzVL1aCkUxMQMIzsC5fNkKIm+QLq7ux1HjRPAGvLmrSO5uI7l4qKxdNDDd7W2myA4tju1TO2SDpnXd8iYFuErjjhbl95SJZ+F456jzQtnnQbmuuDdikrDU1EfG95/aj7QuvLqBIWQ5U="
+    },
+    "output" : {
+      "authenticationCode" : "zRQig9HsqQkBb6wmBF6O6A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "fS+wey0ovWLE01XhSxuc8Q==",
+      "data" : "Pv48xWpl5yVbHMQ8cqfeoBCLs7/Pp04qT9IEOF2x3wJk9HJtDTSi2cfySdZ+MvSrHed7AcRI8kE8w/OZLhBhSWVz8C8Zq0NpzeBuFwHs5J/Q639p8INA45j3Un2BPY569VwAIHZ5ABNaTdLni7A6YkrfSRv2rXGc06mdz8YV6PofN7WAI1IyJZ+J7Rwio9RWGSdLQA5DQJDHGGKUjkJMGJaIWT6Z9m4M7qPpRxmYjN4JAVR/iK+4Ka/xsigtgofPM87yNk7dXiVY9smNrN5ibj+VAjt1Cg1D+ro="
+    },
+    "output" : {
+      "authenticationCode" : "gbvRoxLMRQOF7WIDB4iBxg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "mRffnae9tTN7OaTfXAy2ng==",
+      "data" : "UIMXD338G2nGpjqzX0t3sO6wSF+91cSu1YxsEx/8LfcBqHij0Fr0+cCjtjhpIlp8SRGjCrH69/8R4r5icXKkhv72NJEBEYHRZvArgFNvw1P/o0z/yEZ/25kCX0rAo7CwwT+G4828FZwXved/4tOM5taEFZQlufoynDBAKL4w8Wj4qejLdsTeB7uvAPlWsUc="
+    },
+    "output" : {
+      "authenticationCode" : "ahyYQmV3eSZtA0mKmak/fg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "5gxb6QWypzomANG2C0FH5A==",
+      "data" : "gWPFgeWXwap9bvyT9N2TzepfFvV7xfqO4E+L9/ufdFZSFPDNUJiypCoA1iyUi/uPBCu8YBvP8oKqbOWKVRpRLt6Eg+E1Cn1qlV/juBDxX0LCbvEQHZPs6UIIkmdJFma+13Cc89rCw5MCH632dVLNtLL3sSnv"
+    },
+    "output" : {
+      "authenticationCode" : "Sb+r0uyFq8S9WT9JRQ4LyA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "t08vE2aMVAuUyEZweZ75uQ==",
+      "data" : "wSlwk4nemTHSZ9nzCzxzNBo4tlht1rUytCKEsaMbvXAYHk+Ki0AhIlLlPg61zg=="
+    },
+    "output" : {
+      "authenticationCode" : "kN3eqREZHn0k53uKyRIRCQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "FXQlycBKHLCn1FKo/Hygsg==",
+      "data" : "fVu1GGMrtkapYERvgv7oZBoy2o2XyAc1ijYRAIrClbMxIUyvpWbyVDxJp8xwT3wL9uFxbTAfnayAMJRdwZpmNYIkJQB/HLLmeey+V9uJCGru0BS86ifoWL2/gFU7otX7XHU6gywNVMXuIZAHY4zqBC2RN9hDpQ/gon3voWME8oiYMXj7c7okqGjdy8Mipdp9lGbJo4QUAIcnGKOwiFic6gcmoKg="
+    },
+    "output" : {
+      "authenticationCode" : "rgx3hxulQlhmmCtGzfzrgw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "cphVW/zDV6ezlv7Y+h1sOg==",
+      "data" : "XdF2iISBI3xn08VKh1j88TPD+7Wi8MLWWywIzablcxS42EG6LZvsxo+32mT85OGikKe5a6NRHw=="
+    },
+    "output" : {
+      "authenticationCode" : "fdJuGjB0ksKqJy5GrI4fDg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "QPcfRP0Nbu4+Tq+LInlUXQ==",
+      "data" : "i9Y5Iz9sdRQcGzBoojgm0WrHodN/mg=="
+    },
+    "output" : {
+      "authenticationCode" : "XHqTSPMf+jjSzoNs6ECVcg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "UzPMuy05JzfFgcfEwL257A==",
+      "data" : "wEg+N2HYpfO1mpms43ARH5OzczEo2ZEtVZYU0/nmAHU0dmXIpTG4TJBm20Pr9dKU4dX29VENgoeKGsRMal/9JZYzfzaQEykU/oAY43OY0LsgZGEzNDz8UxZsvyeQBHLH/DvTf3P5LtKvma256cb7ZIVFGv4UpplsaJjkI/D3ZBQmoSdiSpePJrn8isEHXF0zYUC8ZvDsPToK+5YWnL2dYglZ2u2gk0JEBmciy+mO+b2AGj7URzZd7L/808FRO5DDgxDXL66O15L7XIwzImB6L86Mfj+k7bZfpmyqEgbR22jf/UHr5hrG60h+Ex08cJym6AuN6A=="
+    },
+    "output" : {
+      "authenticationCode" : "jDxg6n6uLDEaxYI57mrHNQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "6SyqIC+ISYTmq4dXwBpHMQ==",
+      "data" : "fz8vKT/qszoy1Vb+pepnH+9VvI1zWty9VyCjsI/9huGc8d/LHgKGfrIkVKG1RG1xX3yiSP7iXu0VUI36pyQs"
+    },
+    "output" : {
+      "authenticationCode" : "BNdvfN67xG4HmKfBtkWjg3TZMvxgixZol8rrltZOHeA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "f4xI8uCL8Q6naCioU56mKg==",
+      "data" : "KPedrWABPUYbxMeyqWkaQ+grBqAuSh1hCCs522tKqoWqj8pzsP2q4KoScHqC0v9nO2ZPIWdpEE1G2xSWz1rr+T20RRE9kGoL"
+    },
+    "output" : {
+      "authenticationCode" : "tQ0x7yzLvRTFRFsvmF3ECbHJ3fBG7+mx6ETeGDIc6R0="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "vP2YHp2ie+zo4mhbUVh9uA==",
+      "data" : "bmHM0qErNs0Jlv82OBYUWfcWYj1h8MRUSh6/sbQRb02YyBbWhOhQcOdQOH5FrY93A+PRTI7x6Bc0N9wM07CcAm4+guilRqXjvJ63P2MoyJ+MtJo9iXdsP57VwTak4nuIEWkG5rk7U+uWWiqn1cRkEnyEU+Qng+fQflVOZOLi6UZEqUiyvBU09rzcYuxo5jc6w6Nmgm98j/1xGu2vClKuQROaDXXI01n0olVwdjNwTLOnnTv9kPykQ+y44XCmFkBmPrH34bdEGizj3w0sfBFn8KvBzTq3v089AekHS5TukcirTNtejJRuhspm7MC5PE/bYzNfCoRoOx2V"
+    },
+    "output" : {
+      "authenticationCode" : "tF++Pbl8rEn0btKIIs3EpFM+NIP3Zqjq9chHjeDT8UE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "sSL7clOiBfEU1CXVf6rFPA==",
+      "data" : "7PksNYEwLZLeGqq/6JdXGg=="
+    },
+    "output" : {
+      "authenticationCode" : "wt30A0bUjjU+7QQoxl3Z40zG5HZzpLc8ZsCM/oXxsOQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Re/qQmbY01CYBFEjv1WHwg==",
+      "data" : "N07GnYmWCLvjn5iuQ2CMwQ=="
+    },
+    "output" : {
+      "authenticationCode" : "ut+vrK7TrJGQUh3SWiA421wZjnJIdkTrkK3EymUqBXM="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "UfmZrvMRPzgvU+YlKwb1TQ==",
+      "data" : "qMHqW4PxruDe70BRCib51mbgcSpICyq2tSdfZWnz8xFNylE8KG0ZKQbaukGWvesqbkAGNdRZJn0WQIUEMF5VHyaWi97hv/rAEI4oNUafKEglbMwpjUxVAuFACkIf3IEBxhcoVDvN57ofwUbSzKAUJ6GPQDXWCsfk0L+F830XjxfJCXD5yav2Dnzp8WyJEmDGkulBLbtS1aMPAv5vhpxdtv9NJaf8/ii2cECe2LRfpFgYB6M="
+    },
+    "output" : {
+      "authenticationCode" : "pJ7i+NilNKb0ELWjGxZAKu/A7mpzUuvvU/UhfgDEYOM="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "yzWXz7bctnh3DL+wJ9BHfQ==",
+      "data" : "0HTRmEyUqrZeMGhobFBhWNA="
+    },
+    "output" : {
+      "authenticationCode" : "uNrJa7upakZlm1Rxi81wai+ZbnY4nzgAnOQ3vcEiu+Y="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "bDRJtEJg9QMkGCcODgLvxQ==",
+      "data" : "p8N0huwzizopZAiCTP3orOeFl4uXAuuzT+TJA1PlidfffwoXQLsfV7ZRsKZJazohClFoc8gXswOuJvF7BepKVreojsYKG8s8XHfZBf5b548TVCH+GoQcSgnZF5DTC0aYDVxjuXDfwvaTvC/B9m3j+XaK0z01az0h9Lj3hqsp67Z+BjJEbkWCsLePLqhMaqdK98pnQDeKVCWwEAaXJYhxtsLWr3sPLZkoyDYHWrVBLlFA1EujQjwFKQ=="
+    },
+    "output" : {
+      "authenticationCode" : "yTe73E1YfXi9jgWxPuhzdWrRve2cuQZtmO5LEjh2408="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "PhnTOdsTwEaAZV9UrP1ADw==",
+      "data" : "oQ8Ry+x6B4H/ACqsR+KeZ2L2ozKno6er/Gc9nc1OxVtKx/6S+sIVQaNYOh/u4TqAgaxxd2Fo/9mg45GLutW6IwfqkpDxxA=="
+    },
+    "output" : {
+      "authenticationCode" : "l0MI57Bxy/xTCiBLVyXUr0PzvKW54TYCnm6BfgTj4pE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "okop2HSjS/FvIC8Nb3i/qA==",
+      "knowledgeFactorKey" : "aVE+YivvUWR9HgKVzX+7PA==",
+      "biometryFactorKey" : "AxjV4zQpWJVwJKOwDD7pjA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "bPqJjuA0H22qLnR8+PzVRw==",
+      "data" : "zWjwnnwKuyU6pc5Yd1Ny6ZXBfuuG3NCdBMMpMwgp025tNoAqZ8/8u3aJvQzW/gBm0/tDMBQKMbo6iD3shB3TxqPf4ed7wczfO+FT3FHaHNc7HjolnnKI3I+swlHkUqKlpr0BZa6C91mL0DFt3KfOgZqcPjNp7UwH8RP/9taOow=="
+    },
+    "output" : {
+      "authenticationCode" : "mHHR2EeXjDLcqQ3ejyQuNgYLjfAY5smUy18M3g2wZPI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "DYgrpkVTLuhIHHGlJ4fJZw==",
+      "data" : "Kbeeom70PPc9uM0xzSDXq5ElKKarY08pMbM+1F1ld4U8K8i1scXkl2aOmE0qnKREOBU0x58+OmFsqHs5iOiUXkc7stEjyDpHe6CV5djbmevmNYc+L0rub+hF11s3dfnAElRprO580QwCLDnvh6i6A31ozsvGmb3zqVy/mFttq3AODy6C9ed0ZEd41Y4IJm7D8u/g0n7Y+OrZ6wA8Y9xK/pG4sRbD14htFaoLWq/e0ziyYHPe2O+leBgumXks0YxI4YboL5Jn9SaKK2YoyYqUaQaChasMq52M2A=="
+    },
+    "output" : {
+      "authenticationCode" : "nXcqKi+qHBEY0GUriKjvIA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "F0ciPZeCk1R3kaGzjn/mhg==",
+      "data" : "PXjly38yBdeRxlanJ6DMpPt8pXm1DdlOvzOTxAR+cPSJIpL44t56RChq4sKmkHipt27dXlq0Jw=="
+    },
+    "output" : {
+      "authenticationCode" : "dw3tX7uziZXF/lfLM80NtQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "484JcV9BWUin/KTXKH/L5A==",
+      "data" : "fRrNWtI+kO4IPjtlSh1OU7sgPwD0JpzD5qQzm3EslLYmydOzwnZR3N+8q7kNn3RM6juL6+Pk9dtdoDIoUCXdvzghlq1d76UtMFmqf1InGOkpgY3iqHzIFq0etYHBGIhnVCKOAEtLl0zLb3vA0fEZXkhhuOnORE+zWAUw"
+    },
+    "output" : {
+      "authenticationCode" : "OBp5GSD6nAoWSIlqQkFK3A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Dq1afMaNAnc85HkKdJzcsw==",
+      "data" : "+JhifKGsxdYXUwDNyi04aqDJZ0PnxwiQ9e12dTgXaWXH334rZP9g/YB6lYqsp4+3+6qiNXA6Y9CE"
+    },
+    "output" : {
+      "authenticationCode" : "edGKpcvhT+G5vdd8EzCjdQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "ehu8+bZqzT1QxgvIo3R0eA==",
+      "data" : "TDEb0xDxGsjE08CRpu1p20vixDr2c+b7UTE7gOSrrHycauadEiFSqceIIRaYz2ukStOiCbpQqhoZttdEiUrZiosCqLwMJSPUp0o4MhZhqYxUKsLBXcRFsZf/rPL9ATmPlwaleLKimAVauzAL+H2ESLZYhf1Uo3HbTxDT0/CmV8kPJkmbMU4m7BlyrXJYkLSptbns7gBp9460dHICCZs8pqPJ9Hcg"
+    },
+    "output" : {
+      "authenticationCode" : "uRKHNgK8RfOCG+hSO9zRJA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "38sHl+x4lwL/6p5MOc7gvA==",
+      "data" : "MjkN0FYm3Xz9/XzDuIWDOmhujEwDrGKCkCebwJ6jDWjjYGdDwVLfIui6kSXCfTX6UgX/XcF0D1Xf1VF3j3BwDcQARB2+c/VG5ot98qdnT8RXWjXIJxDHeM8Msv8GwCZy2OYztGG7md/HwDWfGT9sOvrwjFRaEatIWIJF5EdSs/VTMI/Dh0lkJeRfh0xxk8ve4+CFnf4d5jO1fXNBgJajldwZ/9X/pviBr46mQOgrbDX2gKHVoYKsEYqP7u+7HOvQqAQ="
+    },
+    "output" : {
+      "authenticationCode" : "5vanZICX69W/YytQjuGhrw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Q6ubO7AtxT2SeJXZa6NQqw==",
+      "data" : "V7CBGACTB2CPf9WBPhUtWqaPeP/h8fv0RnmCwt0g3z+dfHOe126uwbAu1fUXbnvwo7TInPEfFk8lDbw7NE4oV8v5gQgjugUoDInW8YN4Z2lXuffa6DjlVgeBqoVr9uLg2DMFZ1L3NHABKMxH4oNlNn43oLVN8z/F4LpWnU+zcbnK8v2I4faNKJTvYIl4SbQdYDWogMZYuX34IXOWO946CbynhTWPOS7yaHruZT7Uv3Lo7EloxUG0xp5JlzWjEjRIozP6ZIZGev+eQk+g6GhGPAYd80IYV9yCtLo="
+    },
+    "output" : {
+      "authenticationCode" : "pqBwKULQCnogDQiwVY8YHw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "TKDuV3SywtFfYhEtYcrobQ==",
+      "data" : "iSiaL12e1GWlexfcGxhdOOXg0MGv4IbMw4nhQIbRNgMg9Tu8c+IPe4nDQEl0ykmkuhHigmvMHidZcKq4fvzE05VhipjiYsC5o1+wu2jLQZT3"
+    },
+    "output" : {
+      "authenticationCode" : "26eQN8R4Mr+IypnvdT6zEw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "598sZmK+n342Oq5m8f8hNA==",
+      "data" : "sCigFtkRDt30SoA+Jv8VTzAELwdvhBaQNEfKST8pV2OcFg/9J7kQ+1LnsC7SIT2sgV1u7K0Q2q8PxnCBS+iAoaDOu0/Eq3sXcqWGvusJIT4OvoKQh0LjYLD98DkB3pUuM+RUDGxmniEWErxLJN4="
+    },
+    "output" : {
+      "authenticationCode" : "jKnYubRfe0kG46TJbIdJLQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "oECUe7pSCG60R9quLpQyrw==",
+      "data" : "IDxrztwILoKFJZpibAFs5Yg2dB8aqOXhe3VHm+1OW70SnBtg4Vtk8bOR7GTfIj1fcEnC9ifJxOWEUc7eeiewUgmai7zZ31mvOUue4AREjpzkQf0ZJfk="
+    },
+    "output" : {
+      "authenticationCode" : "Hxoxi7pz/bb/jGHjMub9LA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "JufEQKbMCJeL6N+aQCEPdw==",
+      "data" : "Vjpu5nJY7kQ7ogeZFPudDb+7/IKx/G6Mu07G0QvHxYUihUNjUenW+E+9bX40Wg93Cpjm5EnHNHQ4P5BJaCZJd/sBXHn+PlCysg/J9sMT0HKHhF1R3n596O7jj2nGeaoW6hf4yG6AdF8="
+    },
+    "output" : {
+      "authenticationCode" : "EuN2m6vI+1bqQglqx8m5F8kBsyiMWHiHqAECO79D7k8="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "aR0GzWwPTlULL7DW2sFQAw==",
+      "data" : "JDpb7RobMx1lH2ShRUA7JiuQddDGWnWOBb6vCp2Vwg=="
+    },
+    "output" : {
+      "authenticationCode" : "TsIi/t8gRwrILHZyDdBcFz1scrcLxGBlvmToJDkAGTw="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "EizzSCAAXZRjao+USpWs9w==",
+      "data" : "7Zn1g7QYZ/0n9S7j6A=="
+    },
+    "output" : {
+      "authenticationCode" : "mrfOuaxxhHmZPCPsvup/hcqchxNHMF1sLAG5rqEwdR0="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "S/joIhzEXwx6zGpM8mHeSQ==",
+      "data" : "0cqnlkxEFsPGhP8u1lrCOqm1vVZhsA2cbcr4m34OB6BAe8mYd+qju3eNveS62kRB/xvk1HSNWp5AXiRQJMDCDd/gq67JLbxKTLiI9QVXc6SQ7A=="
+    },
+    "output" : {
+      "authenticationCode" : "6uLxlX/Nxy5Gw/tJ97gVePQMfDaIFu3LowdjuBhi2QU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "VH86Q02ckRDLpJlfXjoScg==",
+      "data" : "5jWReId3vbkaQ2TUL8UkI+kLnGINa7/TATzssgCpNaScyBXBK0O9H3i7Lp2ozt7vz+7TG8hMtpCaGdFyziJlnU2l5zP6/RlsicK+E2QTdB5OjJe79WAnqqxJHlaDyZ+yeSwn4EaPFfGSlUysfwfWiQhs2vgeN/GFHN+S8a0HoXrlc63KFWgHprUT3ix8j9oznHuH66T4yAOkgg=="
+    },
+    "output" : {
+      "authenticationCode" : "/5/38nLtATVmkBbPH5MEOjJbZEKWDdThLk/E3UpuVqI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "dFXU0UzziAGhJmruxWis0w==",
+      "data" : "cFZ4/LIAvzPdIF4pPwLrQbuRfyq9KAgfjGz6NE37PSwJxg=="
+    },
+    "output" : {
+      "authenticationCode" : "RVvZEr/Ow4Vkak/KS9kMsJQwecG5k8JS7mY7IElrYNQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "U4/IvmkPm9HUoiNc/6/SJw==",
+      "data" : "GYkG61VTs/H26amGWHjLSzjEvY6OhqkZF5Dn3gGcZt2W4XbOMNYshIlbu3kHgWeCm7crEqOHwq00VIMpkRooW6ItpBiyo9WVGuvTxqDj5XY8RHIIai0XdROfTVl0PudgGA4Ncq0vI5/kYGJyoqz9YmYQtfWBEw1v0F7/s8AqcnH2X7VB58IxC/ZMUshGqt1+Os0vEBOADiElKLxL1JWP9iT6NhwIDGhfq3x6c6MV7+4Jw3oCt2LerSd6xa1rUmQncOTs6t/nagb6SccjbUUbX12Eow9qzyx5Tjyf"
+    },
+    "output" : {
+      "authenticationCode" : "Wzbm+LOXrb7ZHGBWwAavsB6W5pULOWSOZo02/4QZUME="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "jRNLr2qjr+q6B6b9iwcOuw==",
+      "data" : "2zje5FBRzGocvY5tTCyyAoX2k1mcqsePk7PtZxlYfPWS8YeQefndg6zYHyZuUok6mDCxV6jrxegL3/r6KBW0y1jwwZGqefh2c6JTe4GFSwHA8OKcjJGuJPeRsGQej2Q2kTYo2o+iNTxzlOZsjBjTuTyBmBplDLc0rnzgMK89+EQWeYn4MaM="
+    },
+    "output" : {
+      "authenticationCode" : "z9uuA6TmEzVcocB79dMtx0CoaRCTQuIukLvFjimmDks="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "j1EIQl00m6/fvkobxNgXdA==",
+      "data" : "frpnYdm9dRHzpOADX8bmI9yb5OS48EmVRBRh2BTiUhhIc0yl/1wJo4Z0HB4HMUIL07QRUY9RODWy2Jo/aMtLwykgiF2QAtOB6aVHE4MFne4svqjR3dFKoaM71pisazSBZUX2EXP9Fm8523Iaadj9ZQFmX3cEVVyODhHHTEb+FnjbfaagfiZEfvy4oztCffSyT5n29Nw4tGz5Ne/NeICND3iasdTfSXFdRfwwEjpzR0+Tv2IZXobkT7TJe4wIhaEeZPwBazCUExWq4FxkK/K2p7/TSyXRpR5BZAFXpLdxM/4VXIAhrKC2YCXthVsBACVASw=="
+    },
+    "output" : {
+      "authenticationCode" : "5CmFrz9jSnUwBkDztucbjlyYl4iAOjvMtsDlHLq8zhE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "UXlCLf0qitc280L5/vC6fw==",
+      "data" : "2SGgckqNvHg3IC0P3tg/s8Mry4btqSzQU73NppZejScU2ZBiIssgMvO4dZdhiweFPRFnWxzfwiYjANALEOAq/YQHowsuUlbdCkpPXRH2KS66lnlog0KTflLtPjM8VE2IlxtUlMiz+EynhKx4HlLPJhTHTtZhzIUeu73wMj36Rw=="
+    },
+    "output" : {
+      "authenticationCode" : "aEAWsUejRi9gja7CCP5hbZgzwV1bDK75LxLUGTrXhMo="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "MinpaCsS1se7daG7UVw1nQ==",
+      "data" : "QqEQLENVya9Ctpy/gbpS/buKlnBE7R3vpUub0B7I3t8Cs3/kr/tLSNjZ92s78TUnaax4h+1U9AwbeVfqbV/OfZtDEys1uUpJnNerYjVxYz68RwbeAXE1icQiLesG8P8Xyhud5I5GChHr+X42Xc5aTPkVjSUyt8uFKqFQNPO+Kyok9UitriCLrnT8VvRbrcaufppaOMumZlaTfTlSCVz3c+yrKyXPUsIAOueeBzDGHNY+1q+LjM+h"
+    },
+    "output" : {
+      "authenticationCode" : "kaXYyhn2gOk+dQ/WMx0v/A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "jhZraQCUPmrLdL019B5PhQ==",
+      "data" : "eDH5OrWwoiUqdb+1T0C/NqDcgK2HGgXux2Cu9Va52eRv13RZ2e9+oa4/GOXNLipvGkUJX4JDQrPOibMnxvVnyl4v6y9/fmoBDX2WQmIQItr1mhs0GKSD5CQoNpIBVafkKTC3tSToRgQoJzRPOuY2KZmyHGC3BKR7eh9mu4gUxwc4ezfEegDCY2XalYllhOp1xRKLG+lF5m7NCvvjmY4Oq0q+Igjsyrbu99Dz4LticvOQnyhgDJA+jTYYWqMzTc/AK68boj69Vv4aesUbmT3SIKsOoz1JmEDS+L/i"
+    },
+    "output" : {
+      "authenticationCode" : "KuK2GUyE4bGWKhCnn4qV/A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "wErhd22PnvnjaQg6eHKbzA==",
+      "data" : "XYQciExgfKEndBTVlfQHxwDglAyIgF+Bi2iBq6ajaM9KVjlBlekKIfX3uPVdMQwk8g=="
+    },
+    "output" : {
+      "authenticationCode" : "qAtPrPGHHvpPVHofGJVwvg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "viqgdL5TcdfDSJCYbKrrRQ==",
+      "data" : "MVKYfsmkvEm2efnL5bnJr8lew7oase7RH+3u3yJKNI3Vd9du/gzSx6azhCbcfATiJpnkvwBMOerJ+CdyCKbyc0jb2pFPeXh3nw=="
+    },
+    "output" : {
+      "authenticationCode" : "TqM6qchLSxFFgYpnxMkNzA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "R1fQXfJc8tWXcfVeJmyjIQ==",
+      "data" : "j5LjAs/jrUeVPlj0i83MupnYckJ7l4HOcmHrF7qMed3G3IWM0uUAM1BFUkQNSNPQZCPo6ZQXkTmZqBTCZbeIEr2G6eKx/v37fqTc1wOJKSJ1knPazcSA8g9mdFK6EkpcSwNtimrhCHeLuOiEIQXdtlHSi2s8+lOW972ZedhnD50k3PTUP+HDxWngQSltVy0wz88tpRWQ5VuT+8YcgrvqvtbidQ=="
+    },
+    "output" : {
+      "authenticationCode" : "8wufPTxGbWRO8F461grAPQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "mG8+IRtkBfNfIWO6+WTKqg==",
+      "data" : "D5FQ0Bml9lqaY2JlUnlsowgI+QpyfZxKKT5wAxk7wD3XyoBfzRzKOq9amPS5zVZF+Mg4syFvz73hI9ususzdWN5cgBo2BV97aXECIZ4RKL6EBLNbF64rS7CPtmkJRS7KYIi5kja3+iddolP66GvK62LGU9KxPExkWA=="
+    },
+    "output" : {
+      "authenticationCode" : "WsrFEiStweeVEwDt75OU5g=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "XDLBJPQqt/iGulpQpfnKkg==",
+      "data" : "CUZZBGCGLlEeSMlQRLcVDwZOuSe6o0A7NQl0KVMbn9QVnW2yc9G7ajnKn+xpYrDI1US52qG4s7SIWiz9DG6y5sHq+MwpiZ95KuSn8jJzTfkbnu1+a5zTDywr801ypzq9AmyPEqogzFymZ31OxtuCzDphyZN32+6u6kFrB/hUQWpv4LynwmMUk6ppzugG4D5nQUCYNEityfpXpMj/FRc/z4A="
+    },
+    "output" : {
+      "authenticationCode" : "3M6AKQVpqFqaj1yBfEuTLA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "6Aw8Y0Pfx6gTWqIPgLEIbw==",
+      "data" : "442BbzQzzskyI2lYKMKK0y+7qAt2dPf0/LZxuwXOBkEAPoL9VRvBUTMNGLWPyzlieICG/WTwrdau5lGsfWDzAJvaJO605cRxaX/mf3fPDn4U1B48t+6J0jYZWl3sOq1aSqAe3nTCQRqyepFNjA9cG6djQqI5YAk="
+    },
+    "output" : {
+      "authenticationCode" : "xB01U5WzA1mQzo1Xt4wT8Q=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "N+R/VHa+/7pexWXYYVpRoQ==",
+      "data" : "FfR8Fomme6ArtuVXWg+IyOdqL7JhPCgxtYix3gVS84xNoC55HZtjcBVFSYWMWUABgvdqubO/XhJc+48R4sA+lV60J5Vu8l+9nruDhkm2MMkEQaqShApEuX7VoKFyik8kB6Is6Pwrv6B8bxC/eUajP8p2Fd1jM4TYYWZC5np0mavC6mptzg99f2MzX04JEKLvOs4HNK7HgpAMGJA9zLpcXlFnTsc4hCUu"
+    },
+    "output" : {
+      "authenticationCode" : "mxJ6MrSnD4NIBi19faSdEw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "VIuMwUhW9U3xE3z1sGjZ2A==",
+      "data" : "KQt3FOKZcWepWRU8JgH3q3L4Q5tzPLixa1XSrCtherMlImviDs+1padDD8m+L5pM40eGGsArm0SoyoSDBkveBZNleb15WwjwnCda4motrJBx+VKcMtsoaIzhhtMtATOTZeaVFKcehIt3e57Ux1wcZZAxPuOntdTAygdGLkkG8IcHUh1dtPwqWtJPCv5bRQ=="
+    },
+    "output" : {
+      "authenticationCode" : "JZgTHJ0A2YI43kklUHCK1w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "mxeizwoFeze8IdxMlkF0fA==",
+      "data" : "YeR/i+U0+hJ1F7Jpy7XVc9w6oxNrZ5xWOEsmXoGu9MvjeX8eOAk7T4ZzIEugbAEOGyJD+ecOrD+Tyii3sDlKmcxsW5BRfZaiJNqMfhzUEGGwvEOwIBgeYet/xUlhWNtpsf39HsjFhu8Mlqm6sds9HF6rqS4kc1G31JzyHiQRmyEmeTDZxV6h2X5WpW9z1/3D7wQ+Vrc+rilKjzKqCqwYhwrcDOFvlWx7aNr0Gd0zs5nE6S5f6+WGl7vHkshaf45nW7lNZdtrXMNPsWz4ftoaHbyKn4QVlWod9pgdkBdg+K+f3TVAW7J1hL2YPhG2YLv09q0="
+    },
+    "output" : {
+      "authenticationCode" : "2jJN54FAThXYXu55DHOf/oomznBDY9BlOPTWG2/ao+4="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "N5LA0BmQe0UcPVprlEH5Rg==",
+      "data" : "GPu5ZZLrUyofBoTJ4oMeQjqURy+9XYzhFmOYd72qodiPA6Vo4Pczg4jyv5tWuK8dd5NwbvwlJmDEm3zZaviE8IQ/h2FqdrMEVOc5IENx39CBU6OWgQ8ltrmzld8nA3196L34bHhZkIiQFO863+9yOX1Ndm1KgdEQbUJNz+A4PyzqGAcVrHdRvmvhNWCcKUuFhSjF8PU+/LaK219nMhQYr/wALkp//HnwzILIJi9lCLm5ZgTxJ0gOQwgQTYoDjxbfWQ=="
+    },
+    "output" : {
+      "authenticationCode" : "MIO8MjhXJO8MisCmDCfy1TgbdsnsLYtBONAAoiWitEk="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "0YICPWteV7lwPhFl2HwMVA==",
+      "data" : "lN+ovZsDHiEfDmBvEdfJl9OFQBEp3tShX/4Xmqza5i6Ir3QSQQ=="
+    },
+    "output" : {
+      "authenticationCode" : "0k/MQ2FKw5eR92l9/n7ZIbDMnJYru7Cd1wdAUvkvriQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "C1D5omhGrpIge866LCoH6A==",
+      "data" : "1ECO5/b6lT3nquLvBOhi5hYwvdOrKAbPIjwx/zb9NykwCNMizjw/PKVm0Wllvxsh4gFctehoiWiyJVIzoBWhZVhvYRPmQSh1aYCdTtoYHk3tkkDVBI2SVn3yNYZiHveteadxktoEdLBf/6xBROHnxl+1noJhcqg="
+    },
+    "output" : {
+      "authenticationCode" : "fYb5BQNbhi0PPvM+z9+sOL7EKbazTwNKQLLTrcMznNA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "F4BWq0MMo+aXjh836uwa3Q==",
+      "data" : "ACJv0N6oWsoXmXfEAJVit1N+TN8/14n3uRuFSls46+79peRePguG0vhjXeqTmeugsgxpGCEXeterCFTxWZ07S9iqk3rY9eVx39KvOPE4cUVA3A8rHQCW15IMA4BHZBAGxVa7gqIhPdMU5EVAfIXYDZcMjFDZuOMPOxIU6n15EgW1OKuDmPsZOOYUgBw="
+    },
+    "output" : {
+      "authenticationCode" : "hhkobDU6RTn36CqfKGIj4eVNkrH+AmMMkuAEiwa4ZfQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Wlw7XL6PaRl4nWd5nqY3wQ==",
+      "data" : "LDd6XpvC0a3paulqPrhBO19DbaHx9T9wV8FCkN6zWqKfLR2/r+pEIqzWOCDD+IbHF6uL9rh9vvb/uZNllDVkqyGmPyJv0uZhWsWmfhEegXi0AcH8yNbt664MRvXoDQrfFlh+shxFoj97lwAGorj8/pzFYHcjKdRzNGF/ijgB48yx+/AruD1nuLZ+F84JxyN9WPFG/+lK5XamdY4u9QWXWZNl/C9bykVkXhMwKsqtcAhiAnbYsDS78krbNwOCinahgKwjIW4UierCZg=="
+    },
+    "output" : {
+      "authenticationCode" : "32Mln0SG/eYyy3Rk6UAaKMROQXyj0DSPZecpjMIcidk="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Ns+/R/numOV+GMsQRMWdkg==",
+      "data" : "1EoGzhXb/1It3GiLJlA05gqZCuRncT9y0LtM/wol4Wyr4Nxkw0wFmmCzvbCmkVDtP8p6zwiulV9gyNkjAbKvErQDw8t3vROyaMBBnEMVZRsXujTiGlSDrzugdzwVNLo="
+    },
+    "output" : {
+      "authenticationCode" : "oip5qByrsYf3BTLF6dcNBF6nr3wEZv5uYiUvgZ01CGI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "erCML2NUPic/nY3VWhVfTg==",
+      "data" : "qKMRmOvOZC7R"
+    },
+    "output" : {
+      "authenticationCode" : "Jz6ZGs6z3vHt6LiYK2u1xohFUNzRlWBBIvRUlkVEPvw="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "ao40hcqnF3QBSpCl78Vnfg==",
+      "data" : "0BBFCI1hmYYLlBeSw2USAn7pKISp0NJnTZ89ewP6qx5+b8qUdnJp/i2o49T4FZO+aFhA5N5YrwqFdyYfNkNeki1XDYqyFDU2UjPyooBUUBio7Y5jjTtNnoMiJbiOr3hvdS92K77rj+bJBP27eLx8T96+2r7U1ErAEjQP7qCpPN7Xwi9XCk6wTTw="
+    },
+    "output" : {
+      "authenticationCode" : "iOFUsFIO7fCIOmyh6jjW17oeVNd9+QDqfpu8WTllcvA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "dzMSvKNJUZ0U/kHOipB0Pg==",
+      "knowledgeFactorKey" : "kjwgpyZAjrgiRUocnVkxbg==",
+      "biometryFactorKey" : "73Z4DSrs5bes3PgI9zmDHQ==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "9lzlS06IfGcgGedO9sV4Yg==",
+      "data" : "KFbovA=="
+    },
+    "output" : {
+      "authenticationCode" : "pQDp4XJBlHYBHdwtQg/B9wmuVNEX2UWARiLRrdlQEcE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "MqSfQ0w2oFdIrPKA8X3iwA==",
+      "data" : "9wgKX8cpUxnxdaXNbJe+JUA00QpUwFwlnbo6yA=="
+    },
+    "output" : {
+      "authenticationCode" : "S4wreKARKMdZStKmK2u4ag=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "nws0FVhpaoF0tR5UoHL9CQ==",
+      "data" : "UJycBz5zF0PUwSmm2E/UU0czjC0ewG+MhCCWPQmfHNcsqOTXcRSHL6aafYIwyN7m"
+    },
+    "output" : {
+      "authenticationCode" : "EU/BsKflxRgsOqU7aiqUkg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "yhWav797vjyP2UCC8RZT7w==",
+      "data" : "baVULzSiNLsUx5pE/Z5NBA=="
+    },
+    "output" : {
+      "authenticationCode" : "266z8kf6uSf1rSLHKVyCtQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "cidbU+enDYCLahItm7yGKQ==",
+      "data" : "E5s1ZwyyikvT4aYk/XUuJaoOqXz+jVU6V6xEq28Vok8+dMvbBsr6jMvYnMzWKlSrAPSfqSXhtNobRhUssbwFZRfm0++vs/w4/uaJg1vZc3ws2N+Ghxnx1+m02csWKTA6m/hN6XucyMfMn4zmGEf2jNyi7KezignpsmNyjAV5rT9OCuO8FQpQP2xG3VAG05EbBP4ZdxfVMpFiJ0ayo9CKPU1Eq+PcL0MtKppL0bMO1+7ctpIZXSelM92bbvBd06hkewoN8r9XxLO6/quJbBECxWQRc4D7Pm3NJ3x+kuPjIbbv"
+    },
+    "output" : {
+      "authenticationCode" : "wug/OtX5hikQTGZERZp6cw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "CZHJTxp5J8qn5/eRNQBbig==",
+      "data" : "MQZqXCGEz7iAJwEs/6+mmIVqLjj8d64tdsjReBmNQHiDYINv/AUzCXKp7PqjebbKD35rdM+t9IVx9JHZFqkKR53fSjuoJlgz2XzzvXL2fKiiLET5Zdn2wjPWKt+2X5EjC32gUTwRSsfvk9Hx61GUzFX1UaJmF2FeZJIrygHy9Lv1m2WwGzaY/3CnH5aKIdD0zPcO7TvFeNAW46pktQvFPJLYnzqhbpvgTtY/S1bUVFr3srJUM3onpO3hr/WquvhIQXL487bqje/FZCbWRw4RqRdAkNOBiE8eXEhUK/nPm9EwZSv/RfAQuPc3O6xk/CHgZKCi4X2lJg=="
+    },
+    "output" : {
+      "authenticationCode" : "YIsXiPPQk0+BKZyqy552rA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "QyTCNizLgv7sUF4A3XPiWQ==",
+      "data" : "EOrXiipGW8uhTw4PWtBJAw920/FxEocESBtsBBPsQ8D20TUVAMQorAY/M6YUMQGz61ileGG3w6slLxBzCGbTm/C1LHr6nrdVmPyfqboCUMfofdjYGqrlED7GFfI1dMtSJRt5ZeuEPhZ5JQ1+j3qPV17TT579qWr7n5zNQ76695zGv/mNhXW9AbLLx+6Gh+aUeCIyWx8/wIHx6BGadt7Aqj4ZLzs7TZNTe80+LNtH08+zcKOfZu++8SI+xCjh5lImTsKIItzC2shOTT+ujx4j1b/w12CgzDPPN6uSDivevZU0brnp"
+    },
+    "output" : {
+      "authenticationCode" : "hr86lK3yPTYFyyfWvtm2iQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "wtl+Lo1EjHxgSzerbN84XA==",
+      "data" : "sdhnXetYinoqcHL2tCS3Thml71LNuUM68ribtNarvb+MsXUa/IhYL5fLNlkM+5tiSJL1DYqNcpwdc/IVNLVPhJWB6xuzs6a6bSxVZ7vurhpyq1X5ah2FUyH2NkHV5QcfDzWWfLATymaUG7Wqx2N5GUq+G5xq8H+0ceyAUGdAkV9ce+Tw36M65jpvQ8qfaIzHMhWSyrOIjYNknebh2ybPL9cwPyrnoig="
+    },
+    "output" : {
+      "authenticationCode" : "JM7hABbXMLpdCd8ZGuAkJA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Brot+aRb5FgqsE3BT5ScEw==",
+      "data" : "7SPtEHj3JFVO/s2KNQ0yXNU0UD+wNF6/23rWPACoBFyTmlwFQepFn9REXJ3erDf/UGkJcQoyAD/lOU27u3wDeWdnn4v8egFvIevf6R8yn5W88zTKaIhA66ti46ubwXXMZdGxU2KPXvwq4c8a4QexEEul/L3hir8YEwXw/m9SqlACgu2Sqhgn/WA7SWLTOL/CRQwXp2gzmQfMJcdd6RSxMHPaAiHND+s="
+    },
+    "output" : {
+      "authenticationCode" : "p6j2qbzYqzn/Wfsoj3kYDw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "N87hbL2D589q++i2fYUHCg==",
+      "data" : "K8elD4Es/w3c75g7BAQCw0s2L4HDlOjLM5ws4xOTGvWmnAvE7JsGD0AEqmh7w+xARUG3cu2BG7QOaYOKykGiKZZ79kjh+X00RpCA59Zrq0a2lx+G53oXvCE="
+    },
+    "output" : {
+      "authenticationCode" : "QpF3kDvEUjRqQmKhVn64Hg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "whgwHLm7qrPOT/rWrjSzpA==",
+      "data" : "xNCxFfTzLgm+S9Y/z0kLtfk4idY9lrm4rCnORgEpDhoUNL5+9+VPYcUsACXsoNF/IZ0hIxVEhR6wNuQ/osjY6xBDtOpi5M6Mc60STtv1fc+t/MaQSqGOOJt1rgy1iqfE5BfBW/7BqBR7sHLWraT496rPY/zSENs/YmDDQF4tj6MqEIzK+OwLC0GnLouO3dI1RbXcezCOW7x7bWe5sw5b5r0NtI8phz2lUc4+OJASxLZFXQ6E77K+5dh6"
+    },
+    "output" : {
+      "authenticationCode" : "CLeKAENQGsGZdOMFEjMO8w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "EkY84asd2ElAZb56DLpsKA==",
+      "data" : "woIxIEr8RLDRtgDun7SE4Gb6lGAvbn+bJuL2fzW9q9RSpNcrLGyg0VkrZpGVbTLSK6SsRj2Llr16CzMpqjJE2DexQvffHt+L8hVR0/POJxsA3NhYJSq6ycy/xjXyHNsQZIQEKqXdxq+NLeES3z6675uprDZZ9Z/46EWL96ggWKrC6Bxiehggtil//rwYPBFGFWBso+1hBGTQFhbqLhIWbkz2Akb21CN1NqfYR7NKTyKA8l0Gv4N53ZLdrnDR"
+    },
+    "output" : {
+      "authenticationCode" : "+hSB2dhRMabC5c7GBu5q2CeR0QofLD/H7FAaxiUTgQQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "bwVMVg3kRBqC6bx0oOM9Rw==",
+      "data" : "lwa02ZN8Wp+rUJ7VYoSev7xkXzYG7r6NMgAgMfZfGyfu0zHqjBeC6oA3qg=="
+    },
+    "output" : {
+      "authenticationCode" : "JQmy/ktNan8X4TsfqFOJSHs9qWiqwOhXkK0zVgkvjPA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "4lNXyfyEZaSanXKsluDPWA==",
+      "data" : "DFrks5LwQ5VllR5K1gyzt8aL3+rttkUTSc9QbbaEZ9axHviLilq9mVZj6FRLICPO5Gs8op9i+x+5Fos1f+cEGjbgvxf4RpRJnBCdJhsAjooHtbLwgjZc2QK1sHmB"
+    },
+    "output" : {
+      "authenticationCode" : "go88APgAHj72MkfCIB6Y/768j4WVnUXq1AyrVfW0OhI="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "jTOqT8uaJLynVcxzkLRu2Q==",
+      "data" : "6iMbp3DLfiVHc1obwXD/lZurMaSqY0TFh5ndTPaQqaf1XFH0trE/Q0GhIpazXZVB9o127eDiHqx2uxOQt5wWiJIs/Aq568/OSKc1k/HkQs9rV95Grx200TRL1rXECOGmFwe+qA9VL5M+sRN8gjvAIRcSV+knaJNyguiqZogZKCjIUIC6clxPIwEst82n+lkvVDRRqkzcxiJDId1cPEQ077pqNsYPE5k/DEWYavrLXJ3uSIFvH+NJfpx1ABmVqoaAA5WdnZ26+7ecgPdpdzyUgGSECronrqcyEaU34oG5eQDLs1mptTFhCIevxvywBLLj61p4r3UerHoL7bRh"
+    },
+    "output" : {
+      "authenticationCode" : "HutYgV5MfS4wV1DVz8abJdxd6PXISzym48qmIsAk7a0="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "r0k/u6VtPGu+0qK2E7qvQQ==",
+      "data" : "dLyknXAdbToA0BXEapYoiC7gCjXpHw/bKjY1JChdFUcv9mjOJSlrpLBBz7Da+nTQPLnI1qDxtD3whIyyEQvnjS0Vg8IR8q+5+JGD2bkmKCMnCp964OCRg1wXezNIvtIdnmyPgDY9MocHhiRWlv4RhmjFMYj3DDKxIT6vCZ8zkJW0ZR192lOvj/m4veP8AWM83EgLXaNF8NjSuCXQS/YTfNysuTVM7fsx/1rHD9E5yMCdk90+6fFeu/tT64BmqUJQuF9hIoQ0JfkmWD1nHeX85XDafVlQPcHAARUXTgTepeOVHKuTeA=="
+    },
+    "output" : {
+      "authenticationCode" : "w59m3OCNgiqArbhocNrQCiB5Nxj6S5ageAa/QIAuIQ8="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "2V32MaOMglY2YyIRaPmRfA==",
+      "data" : "6/+TKWYTt5FAgEt0BofhcqtWKLfgQBqoTef88tocIMIJoNBTqYGBx6HtNDa2wo1g7gPynH15vt7s91dZT9lqFeB2LarEzPlxvrQPua3wQamjWCkwLeGfyXVDpxfk/Q=="
+    },
+    "output" : {
+      "authenticationCode" : "LWLhNvvX5TjyvhuJ10+9s3/Xzkck6YMA/Yi9TyqABdU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "ELDvfVkrzjTkZ/yMnIiNOg==",
+      "data" : "KEt+pMtry8xxfe1QQRIjLrWMoYYqoIiY29FIxWZsjsDKSe8Nmty2KukcayU7Ljkoov0bWkCHjaT7tOOmGqFGGw=="
+    },
+    "output" : {
+      "authenticationCode" : "1evB3OnqufaDFX54qtGG2df4Jp/5LJp9g97u4k2Dbvc="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "aAzxTdh7l5vYlxxgSE18wA==",
+      "data" : "0DIJ6c/aOd5oXDaOcl3nt4+jL7cA5WRYvnhtGggfWdxG8fgmDPxgvyEh364Vbnm6aJALsD4NGGAF"
+    },
+    "output" : {
+      "authenticationCode" : "dkvK4u1gBRlXtdXattmdNeqcmgnnaAajTf7Ki5XCN4M="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "suSYHj/y5nH7N9AsBColiA==",
+      "data" : "/Xt1LUPwDn9dQureBK5jg2HFwVp1DWlVSu6bg+79PcW4UTpGhcc24T5kAwZH2QbNsIFKkaJHK8c/4qpUqWlf/Kdx12Kd3jqXXZM="
+    },
+    "output" : {
+      "authenticationCode" : "YDUA2ATkQUkVbA2IFIPglO0PUpleYDbSB6a9jBtra2s="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "H7kwrayGu+4ui/Av4SbUzQ==",
+      "data" : "OrAS6sD7OBfkrLqUUsjDVdsQDn84uSa+83ywHsK47wfp+di48O6LYWd9xyiHxGChonXWLjawiWlhQDkG85Vyh1tWGBdtQA=="
+    },
+    "output" : {
+      "authenticationCode" : "yzdrFlKCofqn7goKddxxTi4yPl2NA359en1K8v8DG3o="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Jd0Y62QHHDP5JbQEx864Pw==",
+      "data" : "LluUqfrylow6WTA2Gzm0FTCw2IQoFhS+1d9hIs4Jr7Peraw1OP9UoTTyg9Vb1eolkHv59pu7YgTQjHrBd12x7rd5hYGKLF/wboxCRxrYdSvzk7OvknTKlHueTCp5tkwy9JhTSZvye+ih8Sd6YM1nJibXLfR7+eyd+XMMdUQYfCia31IR1oPBfCrbCBldekPa6qXgWbuBn60UPRmRs9aTGuB+8V1OWLGYOJq/Gu/1dB6kcHUQN3EvrnHgH5Awh4IcpPAOcvBzL7g9Rw=="
+    },
+    "output" : {
+      "authenticationCode" : "qSZKx9ONQYezjXVmQtV9Rg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "MYjPcDDrXxHA+sGkKLGFbQ==",
+      "data" : "PgEqxrRijqumg+e5aH3mamszMsvcwnPjtL/qXgy/P9VtMdUAATPH20oIlzktBf7X/H+YZDRj+eYebyViu+f9SSdPwm56mOQJMHGd9QLJfVDmPQU60seCpk1FgjUV4cZvDDN3V4q/zTatXfOJNCca6lsO8hhgtbQ/40S7dKMOhBLcq1jaSzYRmDmc1WY+ZLUgfjkbfvEkk3CAERedoFfCWgPIbzR+/4FjOSMZ+jsvKKTEbfn4SwU="
+    },
+    "output" : {
+      "authenticationCode" : "nuQjxttSINlO3acAo03dxw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "slu15SrcGh0v23Echl+iXA==",
+      "data" : "pDYW1/fLCmBL4irTtgwt0pVnEue3ggPiwSLIJWlMUFWrlV9Wiw2frYiTinjrJfyT1bu6/bndV9Uo5XnRFrVpAHX1AwIDF5QEIpJ9vg=="
+    },
+    "output" : {
+      "authenticationCode" : "QEEGCcgJNr8/fyBMoOyasA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "1vuhwbCGEvVaheX7Tz6EZQ==",
+      "data" : "wIAK9oDOEizjnpXagJP70+GFxkFBAD3y9ewKH2jWEExZo7V6jFNV9LLjhaZ1fRFXzBCBXx2q+AagkO5QzOABmZ/33l08ugVNT25JkL7dkMdsotH2Kajz890kOPwgtfcVo/sft25jQD8j44wGKvd1O6wc7Kg="
+    },
+    "output" : {
+      "authenticationCode" : "CuWMAzYSyP6e+AG70Tl1yg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Ec7FcLD5BIXfgnTwxNgdaw==",
+      "data" : "pNeG8O+1VIEpWNXp/POeaBbuOP5HfEtCLk9eAZPvU7FMz8rV9IX8bJrT8Xh1ZkwOMU4U1Dm7I3nhDgLDhHGRFKlR4yEw7MHYe1b+g2h9u8nPYe3kbnD8UQD/swE2gDxGJLD6aDNgqNTNldFVXzSbcRiobJWaNm9CY840YC80/+rrBYv8sKdxlswXdpT8Tfcv5y4bqOfMaJSuNEj4o7akr14DCSI68si8W6uPIx/CRyQZTQL+UXHSmkSalZG4JmTiTm1Il7MduXBapF61kA=="
+    },
+    "output" : {
+      "authenticationCode" : "7d/BhOqsMG3un2PSVDmiDQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "BvaK977zwLc+7OITSGaN6g==",
+      "data" : "ytdMozlWyL5VWxwG8L+FOKY="
+    },
+    "output" : {
+      "authenticationCode" : "k3Zpt4BUGsDja+eGIoGh7A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Xb/zBHR7l2Y0cFiBRCl4tw==",
+      "data" : "hmFt63saIPIwO9TxBlB2dSIKZKGHBFlNuD/ckfbvjohzmzklj0bXzm2WUdRCSO4X7jqu3VrYQVyqaOI4DYU9oCS5igniLBkBOQ4GgQ6hE2dgA5P2p0NjlBC77Y9RwA/EEIF4K7c+USWCpMBUI4OY6F8U4DEAwk9NVkeJPTDFsJNhTIrNsdnnD3iF+rZE2rqWtFhUZBGxdISUvyzGFEaljefD+hs="
+    },
+    "output" : {
+      "authenticationCode" : "zVzpp4eGxByx2KZc5diy/g=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "AM2ycTc7zavEtDkOJjUcIQ==",
+      "data" : "BEz1WcpYtgVXFxzdIjn1JnTG3LXWwwU3fnBXu0pnMtTjhmsTE7EhPKRThFWFMHbr1FYgUDerNN8iM+Zl0Zr8yPyTq0vuyxokYvtzhrGfJsaDkSjPlz7oKYX4SLQdBMuT2qMm288upl6DCjQaxn9dexFE2vwjvsaSmuAkk0IVDNGcdbyDHKx2dVbiMWLDwJfjIARn"
+    },
+    "output" : {
+      "authenticationCode" : "+9GeZ3vyuo8PZHliTBJj9A=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "DY4jKSo2HjlyxW29tm14WA==",
+      "data" : "6wwchu8+fzaL67GBaoGBiFlpG7mSauxDyH8MS57Gghv/lu9fND18TrLrTjeHaxPp1pWjwT0+zVnskrGTPkCV+2wWou1pw5DuQouLg6kQLVA5FnLotXG3Ob6IrColXcjT4Lfa9Ec8MWdHyf87gbFw47AZwjEvNofJm+16kUtPhMqFMlm+Q/JPDYW7PEQ7c2ox2FZv3VdCYgL1WIZs0dXb8/r186D2zQnYpnfwg9naB+S5QGas/awY9MmJSoG9+BLrA8FBVvTi1oLL5ZQFbaitSOVK5g=="
+    },
+    "output" : {
+      "authenticationCode" : "U0FPj5I+hls19KyTmD+MIw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "2j8Gt1IX3Esbt3KehNNWxw==",
+      "data" : "nViaOvaDQycQKn0VqvnmhWGw2K6X38LcELZk9uHmKejgOQsaioIksTs7zGeiTFBgAitC0qZfWCBgwkCbJFVUitjInJso4eCtDW9QXDtib54KBdiXkInvOg5amrTQ+g2pziFKs7ky4SMAXL2e3g1PqptxosE1J6W49vb7RTJnm9q6aUXm8oFiqgTUYAR6116ENerZuOq+zkkw"
+    },
+    "output" : {
+      "authenticationCode" : "5TS1xCrQYp4Xt7h6zyfZOA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "hDH+yuyiHrUK47FTZZ6uQA==",
+      "data" : "G3gpIfUpdFvLz1sVTN52SoxN8d/lax0ZTMyXLXwYVnXPk7mIxjMAJ5W+oYO5uthkQIhpWOdwdi2/rKMV"
+    },
+    "output" : {
+      "authenticationCode" : "ylKgcJny56OFCylghrlHLiNeeTmxEZvI2+oNDgZvrYE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Ia0pG2D05mJH36gbPpFXcg==",
+      "data" : "AEn3+coVLzRsdRPSczaa06gyQ1iVU0nqxh7LlOqMuliRFjkUUwNrB2shhO6dR9h+Fe2iM4Aq4Uzlu+vsbfMTkNgzwNfm2uJ5qr0j0JWKsvCXpMcwc3xdS5hJKbFs7qPO/5Fl+HuTHNX7L3k/tZrrCSbumhJtE0ADcNilSN+ffOor+X0LlOTtsaGTq5UTcugfTSXwgl5SRm646errbhWpenwIkzSLnWsEmGVHQfwdzJT+cuUZioC5NzWSZjXOev+h6vWqrXt+29/Ramexx/dPFsOGYB24wCXecFZKhp0DnlWu98zbW3+fgjsE"
+    },
+    "output" : {
+      "authenticationCode" : "iWhoSnuvvpMWhyXMKhKFjPOIlcRG92aOlgm8/qangnU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "rnVwkXQoi5/gf/BiOQkE3g==",
+      "data" : "s4g8V+ENaurayAwl4j8Wy11MpKYKMG7cSkncxRUzRPxZNUVQ0g8BgcVnrQ=="
+    },
+    "output" : {
+      "authenticationCode" : "BpuWnlNKWZj/g5ws9k7OCw9sHYQOdjifdmEJ2sqw39c="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "p/DJtSIu2sRmjne5Entfsw==",
+      "data" : "9PtaX78ty3HUO6cohQeqqRAaudDFgbGqP/x7w5WaP7Je7jdwjgi3+vZqybVqWIzGBb5RD6CfnwUmxRlL2VV3J8PUb0NxPUFnZrTObiwUCwCKkc+XcUuIfD3MJeiATshd9NW6Q0/KTK9xXRjW11KRmgylb4XPWNHunY5cyALrFjoJo1LQ/roFGML1FGhQSnUuVa+suGYH9JV4tNP1"
+    },
+    "output" : {
+      "authenticationCode" : "GflqzyNfeT6phnt7gvsMoho0zu9j+GVhHwPxhUw3RYY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "uL2JsjK7xb+F/iCwg7aEMg==",
+      "data" : "o+48STFy2tPPGTCJixE2OmMfNYoEI3I6OehN8mbt3glDqn3YKpus7FXvk2wS6wJIsEt7Od7JgF0XtvdwFmkOP3ADDSsEDx0pXGJWl0dhAqmRDKK4EIpXS2dstxWmkq1nAXyZ5YRh+9m2RhQd"
+    },
+    "output" : {
+      "authenticationCode" : "X6Bm1uYydbbIhme6yu+PBeljo+BZJeCfVczCGTOSJNQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "/aVLm9pWyMVa1wOIDrWeLw==",
+      "data" : "9NdXj0Y="
+    },
+    "output" : {
+      "authenticationCode" : "4jazBH8XopV67Ed9fDq1rmzyI/+jQVp56xJAwJMYUA8="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Hq1pAxyEi9LlbNJJ443OCA==",
+      "data" : "FUfoK3r8LCeUtmcZTsZB9yg3aApM8w5umV0nny2iVr06BoxGPkpcLLi0h7DhsXpp2sz6caaqFpf5RV8egq9NYWl1UKImIzfb18dk24Xd4pU4UmQ4PKfxTGG5MgR8fdDBdyhpINrPSBTyESms5HLtLJoaW9QslSqpxxTjwCks17AZumQS1v7wWwn4Yj5cfSHCSh7HjBIwBsM3Doc+eLVplSOiDTmidVNpSsE1CzDTrvzQUUwny4z63aW5pr89PdSJjlRDb5BynwIpvxUDTtuPT68D9w=="
+    },
+    "output" : {
+      "authenticationCode" : "DKDWjQlTzmcZ9pUkq5m/jgTQydtqsCTnGtEkVMDab8c="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "YtDGQIIHdfBHg9yGFtyOFw==",
+      "data" : "OxV4XedK15pZ/Uw0pWLLLMDurU17ssQ36ypE9EnYR00bV7b7mo+KT36lUt4w+ZYty3Ivl2sijBpyH8Z2i2G5lfsZzyMm5c7dIDXi5ix80gdXEFxjnggC3LmP76Z/dIwMuboTP27cZQScvY3H9/IZVz7tOYwF1JjYqD+ptUo12q+aAwd+gACVc82zINLnbBW1wbJLtGlEayVBGSJDwQ5aLnOfZbsDZqlwi2L8839j/02T9rIeZ7iv2mMkOY89LVUfhpSTbX74K/7wOiW3yjUNShAq/lk4Ze7eouZv2jfRQ+bfn63XbzdVVvdPuRKD7fTurs/XRIZSLGU="
+    },
+    "output" : {
+      "authenticationCode" : "H2AXGP2Z3hvcN83EnaO70yo7GUj41KzJ5mRM2ivYF5I="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Cok/qaW9IWs9a5gdUoLZnA==",
+      "data" : "PNP4DLoGcDOHsZxCUEFV0weoKUAfoKb0b0yXS+OOf2CYvtyRb/MRfF9EBTT0/WP4HasAUtouY3RPGXZe/ZdoMTKKML1jydMm6ncBlIpNG+I72vc7JFZUyfohwYhdYzNzrgvBs1fHyVtETHXGNM4hwnbJLDmbz2R2Yj2Z8nW+AaJ9ji7OneT2O8OISE3v3u6YXnPjqf4F/KcQF+c6muQ5HcfB+bX0tLPQaaZEyIQ="
+    },
+    "output" : {
+      "authenticationCode" : "oaCeb3Q9lFsv86v33XXtFFFns/ElV1M0LYuT1vQI4gA="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "LpUZDrkPxCkz4FNkmES7+A==",
+      "knowledgeFactorKey" : "dFHdZzMOJMrFsQD4W2/7/A==",
+      "biometryFactorKey" : "nH/4tdkGXDMpaWjlaLQrkA==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "YxEwLh9AwEx1UZmiExcO6w==",
+      "data" : "ecMDJc/j9cTHxbKctNl0eNOLxc+bOmjv5R5UdZhIEJ2AnNE2yqNXrvuH+CeI01NL/FUWQlgCgb20oP5suNdFgcsRCq/Ku2YLbZOAagAwl+ru8hNWmCu/cSZ2n9Ck6DOIbOJS9jfI3fD0DVAozIUQgzWxxS6nEsdJLIbFvS1PB3cpFts6WPqSk1bixQJR600rFc5uFZfkSZnlvMCmgLQYl1RrEKEFr0z+THvS83clb1R9zsRu1n5QoicFPTaokYZiMYcif+0="
+    },
+    "output" : {
+      "authenticationCode" : "/7YRcl4MLGARmFQI0CkBcRONxz2Y2Im4lSu5zaaxrJY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "q7LnUITAmhtnvEeyMK3BtA==",
+      "data" : "+7Kbm0YfO8gSgBsgWuJShapr1HubLK8pfQ=="
+    },
+    "output" : {
+      "authenticationCode" : "dBhKRyI/XQYgFe9/zA4lrw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "BACGkx18cKUzchz22yRRzw==",
+      "data" : "UY74XncY+fpE0finGQF1KtR/YjOsszjEXnhIOWMXjeYcevbRufRAPpicLFQN6rlrq7ckU6soV7H7OrXgJHZ6cYYPZ2HHWmLdELj47bl2MMsuakWd+TEe6FLjYqHUFb3gyBmbutGm04mcquyvS8ZX8I/uhtnkRR9K6Q2SKGBLJjEJMDuMf0PtS2sk0TxvErHlh1BjmiXJsSyF5Jox1bv/DxvzddDSzMfOQ13YQvHurReSp0zkogsqR/N8a7dvwQ=="
+    },
+    "output" : {
+      "authenticationCode" : "tYnEwINKteTeR2jdlbHY1w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "VDF0jNCwUQPugM2UkH8BPA==",
+      "data" : "lh9oH2Gyv18V+ijEa9uErqvMliSPZ3GbG4zvhQXviUHHUh8KA1Xe0m9do9s71LNTHnXA8hB2FcOHaHVaFM0yT3bWiNiaOezj3e17Uny70bX5tu89W8vV0c+k81IwcDmKfcdqnDfz6kWlEnYo9UIKFt6FyxcAz0PKxoO3lZI="
+    },
+    "output" : {
+      "authenticationCode" : "nVa4SNb53ZJ9uzI6E56TqQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "f9tPvnIYJrzdKiZMmwofuw==",
+      "data" : "tEzb7YBTL6hQBF6mjR6kLsBD+CrGMQf1zjZ0ZtuhLfo527So41H8gxB6E3O8YhY8sNPrXToVmbh//fY8ZeogAC66jIhu20rA4LQjLPNKDhmp1QY="
+    },
+    "output" : {
+      "authenticationCode" : "I1c2i4D3Y1fE4GsKgAEVdw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "sw5VIJsBIQbg9Qs/QAbxZg==",
+      "data" : "G/viEv789Huy/F4moVWO19HBjNa7r0LUFHtRypctM1CNWOp4gefaVqkjiklwElLOh73+W773D/Bvwn07MV2DSujmmPFzQyaRrvWna+VYB+s2K8mJDuICKflTkrXYV8TeMSHvMhlTS3sRiEyJk/O9EnM="
+    },
+    "output" : {
+      "authenticationCode" : "55K0TddmAX/u99/eOr0CWw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "A7vZi9ri6d41tttAdJmtBQ==",
+      "data" : "8KDg82xRYWBJJB5QviCWmTWGBO2wWdXNsIMJBH5cjR2+tcww8QefKnrt5RlFV8inZBpE869pjGXsJZzs4qBY2bDp39NNdhPf1+wNxzwoDVRklUGQ4o6o3/pYHUI7xOCfG8rjloR/V3eUMkbTANKLhIIXf8y6OGpMVQmnFztw4OoOXcCznqfOUaulRivXjguWhcKF"
+    },
+    "output" : {
+      "authenticationCode" : "uyAO4jsbLickqqUgKM88kQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "eUdibae6Wq8MMii+S3uqXQ==",
+      "data" : "8d1BrhVr/gMtqrVppkLZHIW4WzLilS1MYfqLP51pDv+0n+MkxxSZ6NWxCCoe8OmzWmcbcI1GDzjggPN6UIthe8KDHPMGgHxxSccXGVjSOiQ2SpkTXT8Ai7tN8klL5j9NEqHyKeZm0J01NWTmnDIn1teQbXRgR8iMrcpYtntjCLzWVif5XYQfMUgZUFmxClV3lJXlPUSEXBxWnYQfG8TmnL2LbLBZdU1Exunw7Ff4W9EiqJXBnYlkyb6Am5IihN/0msJgVdm/j5akSZMUFJxAgaaLRFdP/W4nSNS4XghjX7iykMv4QmQ56tZilAU8"
+    },
+    "output" : {
+      "authenticationCode" : "xnAa8gBOu77XEZGfxunsEA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "A9EgMNlzKd0SaMESWBdNAg==",
+      "data" : "7yE5SSrCGaZ1qVrl1RgpSVglQjDmQJfnLq8CMKi6sl/D0yH4XQR8qiKuYlABtz/Fipgzhx/IEQ=="
+    },
+    "output" : {
+      "authenticationCode" : "9J3v2T+XQ7Tjj32Yytt1YA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "D6xlthHNZ/mXgzepRnCiqw==",
+      "data" : "x5y8xbZTWdwF0Dx9GxFDQ7xDkonIZncjO9n9hIoh8i1LJMQNkGvEjCOMRcOOtcQVGfk7JiUHs4vpo/0zXOjFA0TKFKbwM4Yngx951Le5LFt8wEVqNMJcq1DlCObggglBaC+wzvrI2QbtWGxI/Y2PwDp//djU3ilpQZ1mLS7pRWOw4nlDJXZdwCKA4Lb2isaMrkrKp1cPlkyX43WiiesUNFj7u3bGZg=="
+    },
+    "output" : {
+      "authenticationCode" : "f/kKpA0ZOJBrNB1KebQLNw=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "grHTXD+Rdz5im7gNdyiebw==",
+      "data" : "SFsiFzEuhD2mQbtgxTnGkMPI9+XvQstgmI904f2TGpDCYk3pRbDgcNoT37lj//vWCA22FgpWElBVM7oDOliQ90HO4eWclahaS1gvAkjHYUEza7aiKeLqCOD5blFiJExmLe/0fXtkKb8lDKG1FsYqZfvQ/oq5NyjTUMYAp+EFFd33/gpmOfrvufRtSNEPu8cuyzKO/rGPWYPTKctS6O8G8FsBGzKdIKNoEm3CvEiy6LsHq+19jD6kE9rHcWSoru6McOHWENrrArQiE2mm9Ls/gRddhv/xao+DQxvFtLw="
+    },
+    "output" : {
+      "authenticationCode" : "jlSHbWlFaoDLjAd3NJSCjg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "UVSDes3ju6nAQfAgk75RIA==",
+      "data" : "Dum6d9wZjx0BDgOZj5tNB0p/WGcMbzKN8IZqyndLmJ0ncHXz/+T4Z/PAfMzJVPxEkngS5Nwp3r2pBuYfqnVoxWNa7k+AF/ooyE9PDA=="
+    },
+    "output" : {
+      "authenticationCode" : "kBPR1Yuep6hFNaeSvDLCK0iJHXhZGGZ3fRFR1wOsuEU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "vGzx5ZDnyq1xQUeRawGSiw==",
+      "data" : "s/+o5zTfRpw11tEN5iDdiPmfW3efwEKXpDFgEpa9Nm/bBzMlq3saC37jd9ppz20wje1+HL3zN8V2p33la+fasUsJ0VoL64WaYT4VWWfyI1DUoqeF0G2ynCcdECrcKsWgkD+eVvQn8T2EplhrBLz0w3d61nqjaeHIDxUbbldxcZPVW+JZvuZRx4Sn/Cm+hlTmYTli5zKbEe8yDB47lk0hGXz4nxZt6mP20+Nq8QoHiljShdyVrDLioitbz8gSuIoD41pII4Eefr1YpRfUA+DNPmllAcLZMwVs86GqSC/5TL5RZYyi"
+    },
+    "output" : {
+      "authenticationCode" : "ye+i3FhxgnHZzdIqTy3AOXDV7QgY7r5azcbUFapLzqM="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "RnS5y6j3wuAe2CLPXlov6Q==",
+      "data" : "bXzFBySqZdWrCbzwkGyvT6jQUNwKUTfH2w3W28dtw4V04IsoqziszBWAQ9FYIBRlgP51/GOCGM80Wh1JNcxsztFxvAaOpEgaMiEGW5aWZZnOC8GLh6JqlBeD6YnTr6BV99iG8S7DPA/Hxua+UDIkCtmC4b8Ir1b18ab9mQQ1asoLSv0="
+    },
+    "output" : {
+      "authenticationCode" : "DIC2n4go48jaN+WBGX8bx5pDb9FioRzjNXKOhw8vYBU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "kcXTr6/RK7jxJdwraxxQ0A==",
+      "data" : "Ji7yi54XJt74f26PjW76sIp3kBTm+EIMiTCCrfu4MPe6NsLpLnUd3ZxDpksI1WQnfCGx0rLsWXd/vZLJNrgE3SP32kt9Pp7W4QC/FbkouMVk8kDqJHqUIM5J4A=="
+    },
+    "output" : {
+      "authenticationCode" : "nDj1/vRCwTKHUCWO8fv6A/9Gkx+epq/gJLOQpHT6+mE="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "4/QvkEZEpleMRyj0r4RnUQ==",
+      "data" : "a46NCSKmbqoyg8p/5TMbMaumD9VowhaxrMDyDQwDIYNiKQESD3FzivE0Y/0r3CvxSVCy1UJEUB7x998TPxr0VNSE7NT5EHOX/4qVZC6mj73ZVh2hrMcR4zDOI0ouio5Hs+Qs91At"
+    },
+    "output" : {
+      "authenticationCode" : "1twhbV4JN/QWLv5W0Hnevbhi3y4M3WpWYt5SOv9rb2k="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "8q0casj+H5B7wK21SrDw7w==",
+      "data" : "XjHhXl3rxfXj91Afzyln+5qRvN713j6DgUzlGYTozT9wQdOJmvSNf5n1l6TQfpWUsAX79yzpq5pUsMfkqm/9tusQ2dDVuBAru61vna6WmM6PVKv6oNXJv3zyt37wEBQOpzRGTaYJSzDzZsHEkuyZUKxAffuJyCWiR84a+6A9M6cyxTvq4VwyMiaYcWPpXnGAbqMpOsM5dqJ5/yL9dTu1GuQ67bm0Vbyi7gM3BCUkUSrez39tnw=="
+    },
+    "output" : {
+      "authenticationCode" : "zzgYZQz8q1iFgDPFrrfmtVr9/gWLllZAHrFDD8Qw2No="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "n/M0m5CV41QtXLci1kkNtA==",
+      "data" : "bE4gvscowunH3jYxVA=="
+    },
+    "output" : {
+      "authenticationCode" : "2IwdZi4ul9NRDquTX5wyPp1bJAVE5/2P+jbDbAAvvWY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "L3g/ebIkLQVsCMRj/2JJwQ==",
+      "data" : "7QMa5cT1g0tVK4LThSIA"
+    },
+    "output" : {
+      "authenticationCode" : "dQN5H6c4UG+muvU1g8hh5H/GXZ8VkjWhpEgIeKL7ulY="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "qmdmJJSiMRV1wzRv0T0nug==",
+      "data" : "ZwliyZzKGUU5N4U3iEXbAS/nWj6aN9piv4u6KTb97OMgA9JJZJh4FtV+l7ylelVLj6Z48YlbkQ=="
+    },
+    "output" : {
+      "authenticationCode" : "/YQQX9Prxp0jomQT9Qp+eKl5B4Q1Tv7mrknWZKM1tSw="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "gE7XxEk+aAGX2IfTADseBw==",
+      "data" : "oL0XjMaT3sQWcsibwle8+iyTfxrDOw=="
+    },
+    "output" : {
+      "authenticationCode" : "BdedDSNRBNz4/mzCT+XNNnzdCIAEXuAa0IWg0RGdd4E="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "9VvM/7Npwmv3Y5nhmVKP2g==",
+      "data" : "9CAmfWnYv2STRQmBXVy1SKo6+gmfJXLL9qyUl99CEx+C6PRCUekOUPO+OIWjNAv3gZHcnqedhay/Kj99PRSnzAxNOxIHs37A0na2UyTyTH+OxeCJohckwBvuS8CQiZq0cuZdzFSi7pzK7rXnYUrpCKqg6VYw5iiKGYDWfJVtPHCEq8UUrN07LmfUuIyrQSbkMbgoLRTs9CeZMSW1re8OmHusqU4="
+    },
+    "output" : {
+      "authenticationCode" : "SGXbJd9HvsAnml/6WPyQcg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "nEnXRo/+fgWWcROLdY5p0Q==",
+      "data" : "SPP9WmG3g9dgYLNN/2ihmddS48VKE7/UfGZnbadkUYj0HAiqXBsF402f6h/lAL0LeaVEJNJ4kzkazhwb4/+iGui5LSae7uQHRz6o3Vw+zIbfY7zTmpmxoGR1HID0/NLgDZWx1jIy7zqIeBXCjXTdqq8THNWKChGnyAxuiAlGXpp/+zbWsnYLCPaJI8tz7IpTkgadpCQ6oiW8yg6YA92OX0IiKq/7NxrO3Q9UPUeohQVXwQvrljrr0cRaEnOBfvrrrC3L7aDQJhc="
+    },
+    "output" : {
+      "authenticationCode" : "rcqYlAg6SnUa9unhivKIKQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "Ekbgoo6acYe3InUTY5TDfg==",
+      "data" : "cmM3woSP+IAeG7SqCoQ="
+    },
+    "output" : {
+      "authenticationCode" : "5Cbrv1OhHMT2K8kOEarSMg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "vzuoz+la2KOy47hpQAENug==",
+      "data" : "QPe2V6+XF1eLQ5L064jfe1chBadG+h1H1GmT0S3HqkOr6Wq5gUVY"
+    },
+    "output" : {
+      "authenticationCode" : "ASMaAcC088kQWM7rFtthDA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "+3pEcOKNh+Wy6kzfBDMthg==",
+      "data" : "AT9H1Ixc2ct9ueqH/BbUFfV6nF3mnzeCwW38YRA/j8S1rDFQLFlvrNia+uF4JI+OQVNCY9ZQf4p4ZEV8GCoqOGHjytyiWQkdckr5l+ah7+N0RTIOocM1puJumfHMbCvjHfKfukDRaETe4DabCl5jPJNITb5OZhD4DLk6gIlLKTTyHx4oIN9fAD0rAMSNAsg4odKn83Gl6W51huMVHvqDYIT6ycG5sMYRTSLMZzAbVb8Rmg=="
+    },
+    "output" : {
+      "authenticationCode" : "bOpqDgB/W7EJX/0V45pk6w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "1c3iwtmD0CPXYmEHHtmr5Q==",
+      "data" : "x/TKcIdiINNq/x7kPjr3GfCO7/LmulA5iHs6utpn0a7i31ea9KqCHdCIOkUmAZKmIG+HLw4G3jiJruiiJCleu01imt87foPEbKYUAWdh28Qt9+yPsXDO//AiBr8Z/R3UCeXXCcSa94zIaNDoGs0KUlDK64M9kx8RbQmvLGQF5Ry6FFxfbbCmrQ=="
+    },
+    "output" : {
+      "authenticationCode" : "Bom5owEGNyBSeVwzgUyCRg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "xsHG9MEj0894dOX1iY4lSQ==",
+      "data" : "tMipjomC53a0AhuVs1WoaANbKZvvISPHCA=="
+    },
+    "output" : {
+      "authenticationCode" : "xf/+o6XAk4ZDu6avMyWCoQ=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "m6xja+VtZGBORMRY/pkLfw==",
+      "data" : "6woeLQHt42NSG4i+uCMEyHeCsP7WUxLzYLNhfiCSWKUj9pbjre5PIfOxiPOzXhiTiEwGwsZqVsEAM7Oye5zI2gmbOebYYXUJBYHHNTpURaYijc97DHk63/dfop0TxoQCCOuYHzQgXGcUcZX+hllS6i+6w99bfmCIPVijf8aQ6N1NWZDk9ZoZd+WReiw0lzhUnSfBKjkCcT7F8NHLZmY6CgeOeUUKgdmyX/aaKhAGELTmcG4VuA=="
+    },
+    "output" : {
+      "authenticationCode" : "20uO8Qs8TCLWgPpKdDDOCg=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "fr87nsmoeQd5Pp+pSKmMEA==",
+      "data" : "yF5ddT/ypbHLua64Y3xPirnqU/LAQshSuwHoGemfUqsxgct2"
+    },
+    "output" : {
+      "authenticationCode" : "uSHKGYiQApQgmUd9NlC/3w=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession",
+      "counterData" : "OWWwE6y9BZtDE8HcVZPqyQ==",
+      "data" : "TOBX2LGENiB4xgl7+X3IjY49CBXTZMKGgKd8Ju3zZiBfEZJ0H/UQzuSTRHhEtWGnzmnQwzKYxzQ6IGwF9qJxrf/vx52DRqXrHjK7XWQcv4P3oqf+OmMqcqEtwdccu2Cj9kefZKJsDfj2r8UV5/+TqLUMZC8="
+    },
+    "output" : {
+      "authenticationCode" : "FNyl9TLQoxab5tiuO5REOA=="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "6/Of/fPsucckolV08maKLw==",
+      "data" : "j/FyZaLdjrS7OvoTiv5oBH7ZGD5TmfN11n/vggYMtOYI6WMl/3qSJgA3hangm+sWV5cexPGYvLApUIUXkj5rBZsX4RzLYXJ9p7DaYaVxXpxwC3d2Pq9AguDqJwkI1i6oyfnK4OuC/1gmKxbBqK4vhaNRT+UX4bkwZE5zImSMW9I5MsY="
+    },
+    "output" : {
+      "authenticationCode" : "5N9OdW2l1snFTtCKC7Efla6d5d3Fj6/Z4VU7Cr3NIdg="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "Oz/uDoXtk0T7XGsJFN7IHg==",
+      "data" : "kiREs1cCzmh12m81SHRqWZ/Wt78afyTllGrggI83/UbFfXGiBNOU057byrAA6nAOXgjzLOAZhUEBoq6bn5gQu4ffsBKpnY8/pEQ0I3J6jfhsTRHoZ1l0Gp4JsNcKY+MV0GFU0OPpjsiKJQAmqUsUhZyHo4oCkd/bpudefYF8D6Odhb3itYoNmRx/dTyeShsMeUUpQXmY+3BzDbGgcGyGR2uKjNrbF+3pz3IiCDoilJyVfQ=="
+    },
+    "output" : {
+      "authenticationCode" : "tzTt8LBhTWho1tUwbxm2ra8oQF4xW2jsX1mzsBT91hg="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "CsQRKROSz00BajeEN5Cy5A==",
+      "data" : "DjuwFlCWd71cC3dhLZAOp0Pfeke4pw5iVC5sJ/LMaGEMlA4JERCoQEQs0zBiEcqPicm0TNi9S9qxz3kT39iOyP+mPuOliSvEiuFCO/L7JmpoIBDsNcZb88AI8nJj4JlLudyl49Y5jU51WN1LfVt2wnKKZ1LGzGrRY8caT6KbHw=="
+    },
+    "output" : {
+      "authenticationCode" : "D1T+I0eRSZdOFH4q38spZfh7kBL12PkOQM33yxkYRAk="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "SI8ydfFQn4T+V2bQJ8dskQ==",
+      "data" : "M2Mx+0ajSRkLC+2eXJPEWz72Em0LQGeYwtuxaUdu2easyNr21IJUTs8N7g4oHG60NFE9+mopPigKyqqPCiH8BRS4t+mStkfC2N5wrFDsTGZ5Oy8ZLBfbJ2IbtPiCAgu8mAdkiFFZ0l5RllDBzLhRkpoT+JH/NL1TgjhpHD/CmJoX3aG6xKUiNizcoUYt2yzwFXdD"
+    },
+    "output" : {
+      "authenticationCode" : "xQ8zcy1qqgIieulCIycuMbNp7lmkuJq/pafWoNSVBSc="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "wr8kLHaHT3Fg2yKvik4UHQ==",
+      "data" : "+PX0wto+z6B/xpBx9XkQzoNMizecPqgNbhpISwT2ITYhjAiufzhirBbtKnJ2ePEz/l95Fjii4nDecvwGIqxuNGOZBkHS4yE5aKo0avkFsHCGlyO1dkL9ht8bz8FvvIt7y8vvzO3HLq6PL2VArIt42ncMPjwC+Em4K3M6bJr5SraHTjulyMZKiuArtFWzyM/dGwo+8LAss+Xsis/HnLJ17CPnEkQsfaizADyWOoqe/ZZOYVU10nArILTCQw=="
+    },
+    "output" : {
+      "authenticationCode" : "GyHqZtBDXIleyKGb32U5ayX1bm5LyBgM3A9NWEW0GdU="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "PzOsje3+jsDTbPCoiaebBA==",
+      "data" : "S628+rXXcNZBOTVxLBju/ezsS3sVwq/pi0svUvgfVRCGT711OXQdBqFJsO6MsAuEODT8IILBXVmGN5nBQmDBJmYUjwLppkZNCiZplf++8A87Opq+TSDwLR9Z29MqzUgxtRkZAG+gvRMSWbFBQD+ZB+ib9dEPyFoTsZJwXEV/+B8nAsSuth2dW+X6zeupMDdmWPKAePr5ESBaXYBQ9hrfa5W0KA8zWA8R0r5k3Tvz/xWZhGri3BUDuXCGywSVqyd8HJh8Q9jMmNBf0ExO"
+    },
+    "output" : {
+      "authenticationCode" : "U+piW1N7K+TSJiaTEzXDGzAWDU31j1DdNQCgCJGZ9TQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "ZI7YpCN2mJ5n76xfyJQ8MA==",
+      "data" : "PzczeR1vUmfaTRt+j5igBUi+W5RzYruVSzu9s+DNOYnw5l2tL0xaigw4MjJo+d8bj2u5/8YcqW3eUZXGnsKQ"
+    },
+    "output" : {
+      "authenticationCode" : "PLe1huZ6HUScU5yQEmzaLsQ/BsBRkgWAO7BwNzFZ1MQ="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "xyENlrzwWYDYKgxtgMGvzQ==",
+      "data" : "949l4R/t2hVY3+DlDsQpdpasVlXpc3xEECSyvd0+tKKYK/7hWsIFo4olf4NICvuKf53Ro01llsYEma4EpIKN35zLUEQv1EjTr9aY7v0Df5WiC7xx2v+E/8yXG8DTIc2ahV1mX5aA53ifQOPIuLsB1UkgSPuh4mzc6idSQEkby9LM9oqzkon4DmY94adiwmyeySgewsPQI/g/z7hvBEWIJcuXY+C3yHfDk17pcucpZbIs1I+YXmS7wzScnBBCszC/p8Htdks91aCAcP1kuB55I2iVymMaNpY5PIXVbg=="
+    },
+    "output" : {
+      "authenticationCode" : "Q+qOlGutA/wrypvYW/8QsPRFJCYGtsbjha+G/yqTpYo="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "zNRlex4DhWoXmFbNvps/Rg==",
+      "data" : "+g=="
+    },
+    "output" : {
+      "authenticationCode" : "0Hpgx1mVW27NOkmp0iK7kKwBqAK357kB3Di2ow8VDe0="
+    }
+  }, {
+    "input" : {
+      "possessionFactorKey" : "obArPxAPg7fUMhQJm1Ev3g==",
+      "knowledgeFactorKey" : "N6UgwsXg5ZnNrpVOzZBEeQ==",
+      "biometryFactorKey" : "gqoLdKEpu0qExJE4eWvIjg==",
+      "authenticationCodeType" : "possession_knowledge",
+      "counterData" : "gWsk3gd/0ll587zuHFyNjw==",
+      "data" : "xafBYQ1GRewBZDQ8/UxhmAfwVSXl+qZZDbdNTp3skdEyBV9QAJ7OCh5TAlemC3sU6EP0E61yFBQxDuuqdWPG3WpMIZGF6sBoxsdeZbSYi9e4Pf84fWU1Y73b5fFrNMXRCPDTM4xrmzv1BUmgmRB8+37RV1k3bwQFRriYQCgK+qtdoWowe8v8q18mdppGDkp521v3AjuM5kkNAqroBEiIOHZx3jU7xhDqnNAazEM9e/W1MQ8K4sNHw+T/UbuoYfncZEg8IC5p/QBTdVlEQKEDDd607mIYcjANlKlCbTJduK0="
+    },
+    "output" : {
+      "authenticationCode" : "rEcZT9z47sODRdRW6oPnul4BgAcBMPAxCgisWxTIrqU="
+    }
+  } ]
+}

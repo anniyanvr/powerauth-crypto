@@ -1,22 +1,42 @@
 **PowerAuth Specification**
 
-- [Overview](./PowerAuth-Specification.md)
-- [Basic Definitions](./Basic-definitions.md)
-- [Activation](./Activation.md)
+- [Overview](./Readme.md)
+
+**Activation**
+
+- [Activation Principles](./Activation.md)
+- [Activation via Activation Code](./Activation-via-Activation-Code.md)
+- [Activation via Custom Credentials](./Activation-via-Custom-Credentials.md)
 - [Key Derivation](./Key-derivation.md)
-- [Checking Status](./Activation-Status.md)
-- [Signatures](./Computing-and-Validating-Signatures.md)
+- [Checking Activation Status](./Activation-Status.md)
+
+**Authentication**
+
+- [Authentication Codes](./Computing-and-Validating-Authentication-Codes.md)
 - [MAC Token Based Authentication](./MAC-Token-Based-Authentication.md)
+
+**Encryption**
+
 - [End-To-End Encryption](./End-To-End-Encryption.md)
-- [Activation Recovery](Activation-Recovery.md)
-- [Additional Activation OTP](Additional-Activation-OTP.md)
+- [Temporary Encryption Keys](./Temporary-Encryption-Keys.md)
+
+**Other Chapters**
+
+- [Basic Definitions](./Basic-definitions.md)
+- [Activation Code Format](./Activation-Code.md)
+- [Advanced Activation Flows](./Advanced-Activation-Flows)
 - [Implementation Details](./Implementation-notes.md)
-- [List of Used Keys](./List-of-used-keys.md)
+- [Upgrade Process](Activation-Upgrade.md)
+- [Shared Secret Derivation](Shared-Secret-Derivation.md)
+- [Dynamic Factor Keys](Dynamic-Factor-Keys.md)
+- [List of Used Algorithms](./List-of-Used-Algorithms.md)
+- [List of Used Keys](./List-of-Used-Keys.md)
+- [SDK Configuration](./SDK-Configuration.md)
 
 **Tutorials**
 
-- [Authentication in Mobile Banking Apps (SCA)](https://developers.wultra.com/products/mobile-security-suite/develop/tutorials/Authentication-in-Mobile-Apps)
-- [Verifying PowerAuth Signatures On The Server](https://developers.wultra.com/products/mobile-security-suite/develop/tutorials/Manual-Signature-Verification)
+- [Authentication in Mobile Banking Apps (SCA)](https://developers.wultra.com/tutorials/posts/Mobile-First-Authentication/)
+- [Verifying PowerAuth Authentication Codes On The Server](https://developers.wultra.com/tutorials/posts/Manual-Signature-Verification/)
 
 **API Reference**
 
@@ -24,17 +44,18 @@
 
 **Deployment**
 
-- [Deployment Checklist](./Deployment-Checklist.md)
 - [Architecture Overview](./Architecture-Overview.md)
+- [Deployment Checklist](./Deployment-Checklist.md)
 
 **Applications**
 
 - [PowerAuth Server](https://github.com/wultra/powerauth-server)
+- [Enrollment Server](https://github.com/wultra/enrollment-server)
 - [PowerAuth Admin](https://github.com/wultra/powerauth-admin)
 - [PowerAuth Push Server](https://github.com/wultra/powerauth-push-server)
 - [PowerAuth CMD Tool](https://github.com/wultra/powerauth-cmd-tool)
 - [PowerAuth Mobile SDK](https://github.com/wultra/powerauth-mobile-sdk)
-- [SDK for RESTful APIs](https://github.com/wultra/powerauth-restful-integration)
+- [PowerAuth RESTful API SDK](https://github.com/wultra/powerauth-restful-integration)
 - [PowerAuth Web Flow](https://github.com/wultra/powerauth-webflow)
 
 **Development**

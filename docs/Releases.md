@@ -12,6 +12,16 @@ In order to consolidate the information about the current versions, we have intr
 
 ## List of Releases
 
+- [PowerAuth 2026.07](PowerAuth-2026.07.md)
+- [PowerAuth 2026.04](./PowerAuth-2026.04.md)
+- [PowerAuth 2025.12](./PowerAuth-2025.12.md)
+- [PowerAuth 2025.06](./PowerAuth-2025.06.md)
+- [PowerAuth 2024.10](./PowerAuth-2024.10.md)
+- [PowerAuth 2024.07](./PowerAuth-2024.07.md)
+- [PowerAuth 2024.03](./PowerAuth-2024.03.md)
+- [PowerAuth 2023.12](./PowerAuth-2023.12.md)
+- [PowerAuth 2023.08](./PowerAuth-2023.08.md)
+- [PowerAuth 2022.12](./PowerAuth-2022.12.md)
 - [PowerAuth 2022.05](./PowerAuth-2022.05.md)
 - [PowerAuth 2022.04](./PowerAuth-2022.04.md)
 - [PowerAuth 2021.11](./PowerAuth-2021.11.md)
